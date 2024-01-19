@@ -1,2 +1,3 @@
 # Digital-History
-Course materials for Hist 486N/501D "Digital History" Spring 2024 
+
+This repo collects all course materials for Hist 486N/501D "Digital History" as taught in Spring 2024.
