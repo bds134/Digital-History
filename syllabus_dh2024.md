@@ -172,7 +172,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Hockey, “The History of Humanities Computing”
   - Thomas, "Computing and the Historical Imagination"
   - Drucker *The Digital Humanities Coursebook* (chapts. 1 & 2)
-- Tutorial
+- Lesson
   - Visual Studio Code
   - Command Line Interface
   - Markdown
@@ -185,13 +185,13 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 ### Monday, January 29, 2024
 
 - Topics
-  - Versioning & Collaboration
+  - Scholarly webpages
   - GitHub
   - HTML & CSS
 - Discuss
   - Drucker, *The Digital Humanities Coursebook* (chapts. 3 & 4)
   - Edmond, "Collaboration and Infrastructure"
-- Tutorial
+- Lesson (Ruth Carpenter & Halie Kerns @ 7:30 pm)
   - GitHub Pages
   - HTML
   - CSS
@@ -201,12 +201,12 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 ### Monday, February 5, 2024
 
 - Topics
-  - Scholarly webpages
+  - Versioning & Collaboration
   - GitHub Push & Pull
   - The "future" of publishing
 - Discuss
   - Fitzpatrick, *Planned Obsolescence* (pp.1-88)
-- Tutorial (Ruth Carpenter & Halie Kerns @ 7:30 pm)
+- Lesson
   - GitHub Connections & Versioning
   - More HTML & CSS
 - Exercise
@@ -220,7 +220,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Broman, Karl W., and Kara H. Woo. “Data Organization in Spreadsheets.” The American Statistician 72, no. 1 (2018): 2–10.
   - Drucker *The Digital Humanities Coursebook* (chapt. 2-4)
-- Tutorial
+- Lesson
   - OpenRefine
   - Regex
 - Exercises
@@ -234,7 +234,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Drucker *The Digital Humanities Coursebook* (chapts. 6-7)
   - Graham et al, *Exploring Big Historical Data: The Historian's Macroscope* (chapts. 3-5)
-- Tutorial
+- Lesson
   - Voyant
 - Exercise
   - Voyant (due Feb. 25)
@@ -248,7 +248,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Jockers and Underwood, “Text-Mining the Humanities”
   - Oldman, Doerr, and Gradmann, “Zen and the Art of Linked Data: New Strategies for a Semantic Web of Humanist Knowledge”
   - Sinclair and Rockwell, “Text Analysis and Visualization: Making Meaning Count”
-- Tutorial
+- Lesson
   - Intro to Python
 - Exercise
   - Python Text Analysis (due Mar. 10)
@@ -264,7 +264,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Drucker *The Digital Humanities Coursebook* (chapt. 5)
   - Sperberg-McQueen, “Classification and Its Structures”
-- Tutorial
+- Lesson
   - SQL & PostgreSQL
 - Exercises
   - Building a Database in PostgresSQL
@@ -276,7 +276,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Basics of dataviz
 - Discuss
   - Knaflic, *Storytelling With Data* (pp.18-117)
-- Tutorial
+- Lesson
   - Tableau (Amanda Ortiz Molina)
 - Exercise
   - Tableau (due Mar. 24)
@@ -295,7 +295,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Drucker *The Digital Humanities Coursebook* (chapt. 8-9)
 - Presentations
   - 3-4 students will present today
-- Tutorial
+- Lesson
   - Leaflet
 - Exercise
   - [Using JavaScript to Create Maps of Correspondence](https://programminghistorian.org/en/lessons/using-javascript-to-create-maps) (due Apr. 14)
@@ -308,7 +308,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Wilson, *New lines: Critical GIS and the Trouble of the Map* (chapts. 1-2)
 - Presentations
   - 3-4 students will present today
-- Tutorial
+- Lesson
   - R Studio
 - Exercise
   - Mapping with R + Leaflet (Due Apr. 21)
@@ -325,7 +325,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Pitti, "Designing sustainable Projects and Publications"
 - Presentations
   - 3-4 students will present today
-- Tutorial
+- Lesson
   - Web Archiving
 - Exercise
   - Web Archiving (due Apr. 28)
