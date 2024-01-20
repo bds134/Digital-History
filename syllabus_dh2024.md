@@ -80,8 +80,8 @@ In each of our meetings, students will be asked to complete an exercise focusing
 
 | no. | exercise | date-introduced | date-due |
 | --- | --- | --- | --- |
-| 1. | HTML & CSS Basics | 2024-01-29 | 2024-02-04 |
-| 2. | GitHub Pages | 2024-02-06 | 2024-02-11 |
+| 1. | HTML & CSS & GitHub Pages | 2024-01-29 | 2024-02-04 |
+| 2. | GitHub Version Control | 2024-02-06 | 2024-02-11 |
 | 3. | OpenRefine | 2024-02-12 | 2024-02-18 |
 | 4. | Voyant | 2024-02-19 | 2024-02-25 |
 | 5. | Python Text Analysis | 2024-02-26 | 2024-03-10 |
