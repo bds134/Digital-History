@@ -192,7 +192,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Drucker, *The Digital Humanities Coursebook* (chapts. 3 & 4)
   - Edmond, "Collaboration and Infrastructure"
 - Tutorial
-  - GitHub
+  - GitHub Pages
   - HTML
   - CSS
 - Exercises
@@ -207,9 +207,8 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Fitzpatrick, *Planned Obsolescence* (pp.1-88)
 - Tutorial (Ruth Carpenter & Halie Kerns @ 7:30 pm)
-  - GitHub Connections
-  - GitHub Pages
-  - GitHub Versioning
+  - GitHub Connections & Versioning
+  - More HTML & CSS
 - Exercise
   - GitHub (due Feb. 11)
 

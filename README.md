@@ -17,3 +17,20 @@ Digital History is not a normal fields-course that prepares students for histori
 DH is a large field. This year, the course will be focusing on data, data analysis, and data visualizations. We will also be using GitHub as a central hub to which we will push our work and from which we will pull to a personal website.
 
 This course is a 4-credit course, which means that in addition to the scheduled meeting times, students are expected to do at least 9.5 hours of course-related work outside of class each week during the semester. This includes time spent completing assigned readings, participating in discussion sessions, studying for tests and examinations, preparing written assignments, and other course-related tasks.
+
+## Lessons
+
+The course includes ten lessons:
+
+| no. | exercise |
+| --- | --- |
+| 1. | HTML & CSS & GitHub Pages |
+| 2. | GitHub Version Control |
+| 3. | OpenRefine |
+| 4. | Voyant |
+| 5. | Python Text Analysis |
+| 6. | SQL & RDBMS |
+| 7. | Tableau |
+| 8. | Leaflet |
+| 9. | R Mapping |
+| 10. | Web Archiving |
