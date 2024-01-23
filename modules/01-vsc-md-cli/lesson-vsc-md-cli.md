@@ -55,7 +55,7 @@ Important tool (ctrl+p) to find and run commands for VSC.
 #### VSC Options
 
 - intellisense will kick in
-- some languages do not have native intellisense; look at extensions
+- some languages do not have native intellisense; look at extensions fefe
 - unsaved changes indicated with 'dot'
 - yellow error messages (visible in-doc and at bottom)
 - map column on right of doc
@@ -86,6 +86,7 @@ Or accessible in VSC.
 
 - List contents of directory `ls [path or omit for current directory]`
 - Curent directory `.`
+- Home directory `~`
 - Change directory `cd`
 - go backwards in file tree `cd ..`
 - Add directory `mkdir [path]`
@@ -102,8 +103,9 @@ Or accessible in VSC.
 
 - Tab key to cycle through autocomplete options
 - Shift-tab too reverse cycle through autocomplete options
+- Browse the history of commands with ARROW Keys
 - \ = /
-- 'to' default to current directory
+- 'to' default to current directory (i.e. working directory)
 - Do not add spaces to names of directories or files; instead, use dashes, underscores, or capitalization to distinguish between words
 
 ### CLI Mini-Exercise
