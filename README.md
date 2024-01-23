@@ -20,17 +20,18 @@ This course is a 4-credit course, which means that in addition to the scheduled 
 
 ## Lessons
 
-The course includes ten lessons:
+The course includes eleven lessons:
 
 | no. | exercise |
 | --- | --- |
-| 1. | HTML & CSS & GitHub Pages |
-| 2. | GitHub Version Control |
-| 3. | OpenRefine |
-| 4. | Voyant |
-| 5. | Python Text Analysis |
-| 6. | SQL & RDBMS |
-| 7. | Tableau |
-| 8. | Leaflet |
-| 9. | R Mapping |
-| 10. | Web Archiving |
+| 1. | VSC CLI MD REGEX |
+| 2. | HTML & CSS & GitHub Pages |
+| 3. | GitHub Version Control |
+| 4. | OpenRefine |
+| 5. | Voyant |
+| 6. | Python Text Analysis |
+| 7. | SQL & RDBMS |
+| 8. | Tableau |
+| 9. | Leaflet |
+| 10. | R Mapping |
+| 11. | Web Archiving |
