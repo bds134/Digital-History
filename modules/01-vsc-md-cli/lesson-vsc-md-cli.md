@@ -201,7 +201,9 @@ For images, the title is is preceded by a !, such as:
 
 >images `![alt text](path or url)"optional hover title"`
 
-The tricky part is providing valid file paths for local files and, less so, valid urls for web resources. I have create a document with [examples of paths and urls in Markdown](examples-links-markdown.md)
+The tricky part is providing valid file paths for local files and, less tricky, valid urls for web resources.
+
+For more info, see document with [examples of paths and urls in Markdown](examples-links-markdown.md)
 
 ### Code
 
