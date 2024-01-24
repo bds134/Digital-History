@@ -84,6 +84,13 @@ Or accessible in VSC.
 
 ### Basic cmdlets
 
+*Cmdlets should be entered literally, except when:
+
+- a slash separates commands (e.g. ni / touch), in which case powershell users should use the first cmdlet (e.g. 'ni') and bash users the second (e.g. 'touch')
+- square brackets are used, in which case the brackets and contents of the brackets should be replaced by the referenced item (i.e. 'ls [path or omit for current directory]' should be written as 'ls /assets/)
+
+Basic cmdlets:
+
 - List contents of directory `ls [path or omit for current directory]`
 - Curent directory `.`
 - Home directory `~`
@@ -95,8 +102,8 @@ Or accessible in VSC.
 - Move or rename `mv [path-from] [path-to]`
 - Copy item `cp [path-from] [path-to]`
 - Read file `gc [path]`
-- Open in VSC `code [path]`
-- Reveal in explorer `explore [path] / open [path]`
+- Open in VSC `code / open [path]`
+- Reveal in explorer `explore [path] / open [path]` (if path is a directory, will launch Explorer or Finder; if path resolves to file, will launch the default program for that file extension)
 - Get help `get-help [cmdlet]` or `get-help -online [cmdlet]`
 
 ### Other tricks
@@ -141,10 +148,63 @@ Recommend adding extension "markdownlint".
 - italic `*...*`
 - bold `**...**`
 - blockquote `>` no space after \>
-- bulletted list (unordered (bulleted) list item) `-_`
-- numbered list (ordered list item) `1._`
-- links `[title](url"optional hover text")`
-- images `![alt text](path or url)"optional hover title"`
+
+### Lists
+
+There are two types of lists, unordered and ordered.
+
+For unordered (bulletted) lists, begin with a hyphen and a space, e.g. `-_` (the space is represented here as an underscore to make it explicit). If you have Markdown All-in-One extension for VS Code installed (yzhang.markdown-all-in-one), new bulletted items will be created automatically.
+
+To create an ordered list, add line items with numbers followed by periods `1._`. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
+```markdown
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+```
+
+This is rendered as:
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+Or even when composed with non-sequential or repeated numbers, it renders well.
+
+```markdown
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+1. Fifth item
+```
+
+This will render as:
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+1. Fifth item
+
+### Links to urls & images
+
+You can make links to images or to resources such as documents or webpages. Either can be located online or in local storage. The basic structure is [description](location "hover-over text"), with the hover-over text being optional.
+
+For url links, it looks like this:
+
+>links `[title](path or url"optional hover text")`
+
+For images, the title is is preceded by a !, such as:
+
+>images `![alt text](path or url)"optional hover title"`
+
+The tricky part is providing valid file paths for local files and, less so, valid urls for web resources. I have create a document with [examples of paths and urls in Markdown](examples-links-markdown.md)
+
+### Code
+
 - in-line code `[code here]`
 - block code
 
@@ -152,7 +212,7 @@ Recommend adding extension "markdownlint".
 [code here]
 ```
 
-- table:
+### Tables
 
 ```markdown
 | column1 header | column2 header |
