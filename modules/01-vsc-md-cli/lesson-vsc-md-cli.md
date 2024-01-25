@@ -65,9 +65,9 @@ Important tool (ctrl+p) to find and run commands for VSC.
 
 Method of interacting with your computer without GUI. Often simplified workflow with unambiguous results that produce a scripted history of what you did.
 
-Accessible through Command Line (or Powershell) on Windows and Terminal on Mac.
+Accessible through Command Line (or Powershell) on Windows and Terminal on Mac. Or accessible in VSC.
 
-Or accessible in VSC.
+For novices, look at this [reference guide for CLI](CLI-quick-reference.md).
 
 ### Two great resources
 
@@ -259,8 +259,8 @@ Here is an **optional** tutorial for [Sustainable Authorship in Plain Text using
 - carriage and new line `\r\n`
 - any word character `\w`
 - not a word character `\W`
-- any space `s`
-- not a space `S`
+- any space `\s`
+- not a space `\S`
 - any decimal number `\d`
 - any tab character `\t`
 - word beginning or end `\b`
