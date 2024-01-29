@@ -196,7 +196,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - HTML
   - CSS
 - Exercises
-  - [HTML & CSS](https://github.com/DHRI-Curriculum/html-css/blob/v2.0/sections/01-introduction.md) (Share root folder and sub-folders via Google Drive by 11:59 pm Sunday Feb. 4)
+  - ~~[HTML & CSS](https://github.com/DHRI-Curriculum/html-css/blob/v2.0/sections/01-introduction.md) (Share root folder and sub-folders via Google Drive by 11:59 pm Sunday Feb. 4)~~ [students will, instead, follow the assignment given in class]
 
 ### Monday, February 5, 2024
 
