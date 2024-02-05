@@ -195,11 +195,11 @@ You can make links to images or to resources such as documents or webpages. Eith
 
 For url links, it looks like this:
 
->links `[title](path or url"optional hover text")`
+`[title](path or url"optional hover text")`
 
 For images, the title is is preceded by a !, such as:
 
->images `![alt text](path or url)"optional hover title"`
+`![alt text](path or url)"optional hover title"`
 
 The tricky part is providing valid file paths for local files and, less tricky, valid urls for web resources.
 
