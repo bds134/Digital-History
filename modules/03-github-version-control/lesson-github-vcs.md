@@ -65,6 +65,8 @@ If an error comes up, install gcm (git-credential-manager) and/or run
 git-credential-manager configure
 ```
 
+then try the above command(s) again.
+
 #### More linux options
 
 There are instructions for installing git on several different Unix distributions on the [Git website](https://git-scm.com/download/linux).
