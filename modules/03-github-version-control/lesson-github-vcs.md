@@ -172,6 +172,8 @@ You might need to set the 'origin' as such:
 git remote add origin https://github.com/[username]/[repository].git
 ```
 
+git remote add origin https://github.com/bds134/digital-history.git
+
 You can verify the success of the `remote add`command by going to `git remote -v`.
 
 It often looks like this:
