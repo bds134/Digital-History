@@ -53,6 +53,20 @@ sudo dnf install git-all
 sudo apt install git-all
 ```
 
+#### Additional troubleshooting instructions for enabling linux 2FA (needed for git to work), can occur with Linux Mint
+
+```bash
+git config --global credential.credentialStore secretservice
+```
+
+If an error comes up, install gcm (git-credential-manager) and/or run
+
+```bash
+git-credential-manager configure
+```
+
+then try the above command(s) again.
+
 #### More linux options
 
 There are instructions for installing git on several different Unix distributions on the [Git website](https://git-scm.com/download/linux).
