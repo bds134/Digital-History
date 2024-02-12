@@ -137,9 +137,13 @@ Knaflic, Cole Nussbaumer. *Storytelling with Data: A Data Visualization Guide fo
 
 Luhmann, Jan, and Manuel Burghardt. “Digital Humanities—A Discipline in Its Own Right? An Analysis of the Role and Position of Digital Humanities in the Academic Landscape.” *Journal of the American Society for Information Science and Technology* 73, no. 2 (2022): 148–71.
 
+Graham, Shawn, Ian Milligan, and Scott Weingart. *Exploring Big Historical Data: The Historian’s Macroscope*. London: Imperial College Press, 2016.
+
 Oldman, Dominic, Martin Doerr, and Stefan Gradmann. “Zen and the Art of Linked Data: New Strategies for a Semantic Web of Humanist Knowledge.” In *A New Companion to Digital Humanities*, by Susan Schreibman, Raymond George Siemens, and John Unsworth. Blackwell Companions to Literature and Culture 93. Chichester, West Sussex, UK ; John Wiley & Sons, Ltd., 2016.
 
 Presner, Todd Samuel, and David Shepard. “Mapping the Geospatial Turn.” In *A New Companion to Digital Humanities*, by Susan Schreibman, Raymond George Siemens, and John Unsworth. Blackwell Companions to Literature and Culture 93. Chichester, West Sussex, UK ; John Wiley & Sons, Ltd., 2016.
+
+Rawson, Katie, and Trevor Munoz. “Against Cleaning.” *In Debates in the Digital Humanities 2019*, edited by Lauren F. Klein and Matthew K. Gold. Debates in the Digital Humanities. Baltimore, Maryland: Project Muse, 2019.
 
 Schreibman, Susan. “Digital Humanities: Centres and Peripheries.” *Historical Social Research* (Köln) 37, no. 3 (141) (2012): 46–58.
 
@@ -219,7 +223,8 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Data Wrangling
 - Discuss
   - Broman, Karl W., and Kara H. Woo. “Data Organization in Spreadsheets.” The American Statistician 72, no. 1 (2018): 2–10.
-  - Drucker *The Digital Humanities Coursebook* (chapt. 2-4)
+  - Rawson, Katie, and Trevor Munoz. “Against Cleaning.” In *Debates in the Digital Humanities 2019*, edited by Lauren F. Klein and Matthew K. Gold. Debates in the Digital Humanities. Baltimore, Maryland: Project Muse, 2019.
+  - "The Joys of Big Data for Historians" in Graham, Shawn, Ian Milligan, and Scott Weingart. *Exploring Big Historical Data: The Historian’s Macroscope*. London: Imperial College Press, 2016.
 - Lesson
   - OpenRefine
   - Regex
@@ -233,7 +238,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Text Analysis
 - Discuss
   - Drucker *The Digital Humanities Coursebook* (chapts. 6-7)
-  - Graham et al, *Exploring Big Historical Data: The Historian's Macroscope* (chapts. 3-5)
+  - Graham et al, *Exploring Big Historical Data: The Historian's Macroscope* (chapt. 3)
 - Lesson
   - Voyant
 - Exercise
