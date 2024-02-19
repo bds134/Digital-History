@@ -142,7 +142,7 @@ Now let's exclude those from Chiapas.
 The 'Cluster' tool is very powerful and allows you to apply various algorithms to your data in order to clean your data. Let's do this with the 'name' column.
 
 ```
-16. name/Edit cells/Cluster and edit.
+16. name/Edit cells/Cluster and edit
 ```
 
 If you find nothing, take off the facet filters by clicking 'reset'.
