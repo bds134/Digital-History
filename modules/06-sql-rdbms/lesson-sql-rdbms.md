@@ -176,6 +176,18 @@ A `GROUP BY` clause can be added to repeat the query in each new unique value of
 
 A `HAVING` clause can set a restriction on the GROUP BY.
 
+## pg_dump
+
+'pg_dump' is a utility that writes the contents of an entire database as a *.sql file. You can then run this file in psql and it will reproduce the entire database into the postgresql instance (i.e. database cluster) that you are using. pg_dump is packaged with your postgresql installation and is documented [here](https://www.postgresql.org/docs/16/app-pgdump.html). 
+
+As a utility, it has its own executable file, meaning that it runs as its own application. You will run it through the CLI or pg_admin (if you are using this GUI application, which I did not ask you to instal). Using a CLI terminal such as powershell or bash, and from within the 'bin' folder of your installation (e.g. c:/program files/postgresql/16/bin) you can give a command such as this:
+
+```powershell
+$ pg_dump mydb > db.sql
+```
+
+This command instructs your computer to run pg_dump and to write a database called mydb to a file called db.sql. It will use defaults for the port, username and file output location \bin\ You can specify the output location more precisely (e.g. `'c:/users/public/data/'`) and could specify the port (`-p 5433`) and username (`-U postgres`), as well as many other options that are documented in the link above.
+
 ## Step-by-Step
 
 ### Make Artists DB & Tables
@@ -232,7 +244,7 @@ Check out your work:
 - list tables in DB `\d`
 - list fields in 'artists' table `\d artists`
 
-#### STEP 4. Create tables for 'works' and 'artist_works'
+#### STEP 4. Create tables for 'works' and 'artist_work'
 
 Do on your own.
 
