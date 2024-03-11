@@ -139,6 +139,8 @@ Luhmann, Jan, and Manuel Burghardt. “Digital Humanities—A Discipline in Its 
 
 Graham, Shawn, Ian Milligan, and Scott Weingart. *Exploring Big Historical Data: The Historian’s Macroscope*. London: Imperial College Press, 2016.
 
+Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. Humanities Data Analysis : Case Studies with Python. Princeton ; Princeton University Press, 2021.
+
 Oldman, Dominic, Martin Doerr, and Stefan Gradmann. “Zen and the Art of Linked Data: New Strategies for a Semantic Web of Humanist Knowledge.” In *A New Companion to Digital Humanities*, by Susan Schreibman, Raymond George Siemens, and John Unsworth. Blackwell Companions to Literature and Culture 93. Chichester, West Sussex, UK ; John Wiley & Sons, Ltd., 2016.
 
 Presner, Todd Samuel, and David Shepard. “Mapping the Geospatial Turn.” In *A New Companion to Digital Humanities*, by Susan Schreibman, Raymond George Siemens, and John Unsworth. Blackwell Companions to Literature and Culture 93. Chichester, West Sussex, UK ; John Wiley & Sons, Ltd., 2016.

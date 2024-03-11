@@ -274,6 +274,10 @@ COPY works FROM 'c:/Users/Public/data/works.csv' (FORMAT CSV, HEADER);
 
 Check your work with a `SELECT` statement (see above for reference).
 
+```sql
+SELECT * FROM works;
+```
+
 For the 'artists_works' table, pick your preferred method.
 
 #### STEP 6. Join tables
