@@ -1,678 +1,678 @@
 id,country,lat,loc_description,lon,municipality,site,state
-584,Mexico,24.08717,"",-110.31777,La Paz,Misiones,Baja California Sur
-72,Mexico,25.44565615,"",-100.84704979,Arteaga,San Francisco,Coahuila de Zaragoza
-74,Mexico,26.87491474,"",-100.60066355,Candela,Valladores,Coahuila de Zaragoza
-62,Mexico,26.84161023,"",-100.66322628,Candela,Candela,Coahuila de Zaragoza
-65,Mexico,27.87778816,"",-101.51484649,M�zquiz,M�zquiz,Coahuila de Zaragoza
-417,Mexico,17.30516389,"",-97.48859768,San Miguel Achiutla,Achiutla,Oaxaca
-67,Mexico,25.56274483,"",-101.40676909,General Cepeda,Patos (Hacienda),Coahuila de Zaragoza
-71,Mexico,27.00420638,"",-101.7245732,Sacramento,Sacramento (Santa Mar�a del),Coahuila de Zaragoza
-15,Mexico,25.43370565,"",-101.00038169,Saltillo,Saltillo,Coahuila de Zaragoza
-69,Mexico,25.26121368,"",-101.14023338,Saltillo,Pesca Grande,Coahuila de Zaragoza
-66,Mexico,25.42009521,"",-101.00036365,Saltillo,Nueva Tlaxcala (San Esteban de la),Coahuila de Zaragoza
-13,Mexico,27.060035,"",-101.5487339,San Buenaventura,Buenaventura (Villa de),Coahuila de Zaragoza
-64,Mexico,26.90115032,"",-101.41845774,Monclova,Monclova (Santiago de la),Coahuila de Zaragoza
-598,Mexico,27.28297471,"",-102.04510179,Ocampo,unspecified site,Coahuila de Zaragoza
-14,Mexico,25.4406522,"",-102.18291625,Parras,Parras (Santa Mar�a de las),Coahuila de Zaragoza
-73,Mexico,25.58223997,"",-101.86824039,Parras,Santa Rosa (Valle de),Coahuila de Zaragoza
-70,Mexico,28.68021033,"",-100.52856136,Piedras Negras,R�o Grande (Presidio),Coahuila de Zaragoza
-20,Mexico,19.24368366,"",-103.7309949,Colima,Colima,Colima
-19,Mexico,19.19784625,"",-103.81154878,Coquimatl�n,Motines,Colima
-599,Mexico,19.14101487,"",-103.91352573,Coquimatl�n,unspecified site,Colima
-18,Mexico,18.90896912,"",-103.87488114,Tecom�n,Epatl�n,Colima
-638,Mexico,17.03904613,"",-92.70294906,El Bosque,Tierras Altas,Chiapas
-52,Mexico,17.09434928,"",-93.21072297,Copainal�,Copainal�,Chiapas
-5,Mexico,16.7077439,"",-93.01406534,Chiapa de Corzo,Chiapa,Chiapas
-6,Mexico,17.1046685,"",-92.27293888,Chil�n,Chil�n,Chiapas
-3,Mexico,17.04106072,"",-92.18821481,Chil�n,Bachaj�n,Chiapas
-53,Mexico,15.32026167,"",-92.65847529,Escuintla,Escuintla,Chiapas
-592,Mexico,16.31841,"",-95.24783,Santo Domingo Tehuantepec,Tehuantepec,Oaxaca
-319,Mexico,16.31606292,"",-95.2354108,Santo Domingo Tehuantepec,Vacas (Hacienda),Oaxaca
-9,Mexico,17.1724057,"",-92.68542501,Huitiup�n,Huitup�n,Chiapas
-467,Mexico,17.40821844,"",-97.34665674,Santo Domingo Tlatay�pam,Tlayacapa (Santo Domingo),Oaxaca
-55,Mexico,16.90796882,"",-92.09623691,Ocosingo,Ocosingo,Chiapas
-331,Mexico,18.95512418,"",-97.6577774,Quecholac,Quecholac,Puebla
-8,Mexico,16.20414844,"",-92.44628632,Socoltenango,Copanaguastla,Chiapas
-630,Mexico,16.98399592,"",-92.48254327,Pantelh�,unspecified site,Chiapas
-57,Mexico,17.35826631,"",-92.63905799,Sabanilla,Moyos (San Francisco de los),Chiapas
-7,Mexico,16.73742509,"",-92.63847258,San Crist�bal de las Casas,Ciudad Real (alias San Crist�bal de las Casas),Chiapas
-54,Mexico,16.7549918,"",-92.66272152,San Crist�bal de las Casas,Hueyzacatl�n,Chiapas
-449,Mexico,16.88324503,"",-96.16051336,San Juan del R�o,R�o (San Juan del),Oaxaca
-464,Mexico,17.46603339,"",-97.35582429,San Pedro Topiltepec,Tiltepec (Santa Mar�a),Oaxaca
-631,Mexico,17.09866729,"",-93.39512958,Tecpat�n,unspecified site,Chiapas
-60,Mexico,17.13684708,"",-93.31127433,Tecpat�n,Tecpatl�n,Chiapas
-596,Mexico,16.48460858,"",-92.47022531,Teopisca,unspecified site,Chiapas
-10,Mexico,17.30100931,"",-92.42569826,Tila,Tila,Chiapas
-11,Mexico,16.75353494,"",-93.11682465,Tuxtla Guti�rrez,Tuxtla Guti�rrez,Chiapas
-56,Mexico,16.33883452,"",-92.56403138,Venustiano Carranza,Llanos (San Bartolom� de los),Chiapas
-61,Mexico,17.1712968,"",-92.33041172,Yajal�n,Yajalum,Chiapas
-12,Mexico,16.76047377,"",-92.72236843,Zinacant�n,Zinacant�n,Chiapas
-4,Mexico,16.89241862,"",-92.37096409,San Juan Cancuc,Cancuc,Chiapas
-318,Mexico,17.02990758,"",-96.52024173,Teotitl�n del Valle,Teotitl�n del Valle,Oaxaca
-623,Mexico,26.96657028,"",-105.50979815,Allende,unspecified site,Chihuahua
-597,Mexico,28.7959259,"",-106.46720668,Chihuahua,unspecified site,Chihuahua
-372,Mexico,28.6355278,"",-106.08942256,Chihuahua,Chihuahua,Chihuahua
-21,Mexico,19.48340362,"",-99.18364559,Azcapotzalco,Azcapotzalco,Distrito Federal
-633,Mexico,27.3714387,"",-107.52517171,Guachochi,unspecified site,Chihuahua
-588,Mexico,31.73995,"",-106.51358,Ju�rez,San Felipe del Real,Chihuahua
-168,Mexico,19.36950147,"",-99.16057394,Benito Ju�rez,Tenayuca,Distrito Federal
-80,Mexico,19.39999582,"",-99.15002895,Benito Ju�rez,La Piedad,Distrito Federal
-76,Mexico,19.35062877,"",-99.16198517,Coyoac�n,Coyoac�n,Distrito Federal
-75,Mexico,19.35482411,"",-99.14642055,Coyoac�n,Churubusco,Distrito Federal
-77,Mexico,19.35704596,"",-99.29920154,Cuajimalpa de Morelos,Cuajimalpa (San Pedro),Distrito Federal
-662,Mexico,19.59928363,"",-98.94098139,Tezoyuca,Tequiciztlan,M�xico
-260,Mexico,19.18622092,"",-99.42003708,Tianguistenco,Tilapa,M�xico
-259,Mexico,19.18119557,"",-99.46865635,Tianguistenco,Tianguistenco (Santiago),M�xico
-270,Mexico,19.49644989,"",-101.33204692,Acuitzio,Acuitzio (San Nicol�s),Michoac�n de Ocampo
-240,Mexico,19.41105164,"",-99.06960454,Iztacalco,Pantitl�n,Distrito Federal
-83,Mexico,19.38954465,"",-99.12086452,Iztacalco,Santa Cruz,Distrito Federal
-79,Mexico,19.39590686,"",-99.09809485,Iztacalco,Iztacalco (San Mat�as),Distrito Federal
-22,Mexico,19.3384361,"",-99.10725302,Iztapalapa,Culhuac�n,Distrito Federal
-246,Mexico,19.37426763,"",-99.12169784,Iztapalapa,San Juanico,Distrito Federal
-245,Mexico,19.37426763,"",-99.12169784,Iztapalapa,Nexticpac (San Juan Evangelista),Distrito Federal
-714,Mexico,19.6903635,"",-98.8611374,Teotihuac�n,Teotihuacan (San Juan),M�xico
-241,Mexico,19.31673905,"",-99.04547582,Iztapalapa,Pentecost�s,Distrito Federal
-236,Mexico,19.35621297,"",-99.11919775,Iztapalapa,Mexicaltzingo,Distrito Federal
-217,Mexico,19.37394365,"",-99.11056963,Iztapalapa,Atlaxalpan (Santa Mar�a Magdalena),Distrito Federal
-211,Mexico,19.37869543,"",-99.01996159,Iztapalapa,Acolhuacan,Distrito Federal
-226,Mexico,19.30575652,"",-99.26033424,La Magdalena Contreras,Huejutla (San Luis),Distrito Federal
-26,Mexico,19.45148599,"",-99.13725387,Cuauht�moc,Tlatelolco,Distrito Federal
-23,Mexico,19.43264649,"",-99.13325795,Cuauht�moc,Mexico,Distrito Federal
-82,Mexico,19.42704275,"",-99.14253171,Cuauht�moc,Salto del Agua,Distrito Federal
-223,Mexico,19.17455555,"",-98.99641706,Milpa Alta,Guiatengo (San Gregorio),Distrito Federal
-174,Mexico,19.18899945,"",-99.00499853,Milpa Alta,Xahualtepec,Distrito Federal
-261,Mexico,19.30480201,"",-99.05448432,Tl�huac,Tlalmaca (San Pedro),Distrito Federal
-78,Mexico,19.28816072,"",-99.16642084,Tlalpan,Cuevas (San Agust�n de las; alias Tlalpan),Distrito Federal
-27,Mexico,19.26316207,"",-99.10280835,Xochimilco,Xochimilco,Distrito Federal
-215,Mexico,19.17619637,"",-99.48893451,Atizap�n,Atizap�n (Santa Cruz de),M�xico
-25,Mexico,19.45815224,"",-99.18669937,Miguel Hidalgo,Tacuba,Distrito Federal
-24,Mexico,19.40259944,"",-99.18781039,Miguel Hidalgo,Tacubaya,Distrito Federal
-216,Mexico,19.7981094,"",-99.87478083,Atlacomulco,Atlacomulco,M�xico
-457,Mexico,17.72570568,"",-97.53499357,Teotongo,Teotongo,Oaxaca
-84,Mexico,24.02402836,"",-104.67019843,Durango,Durango,Durango
-583,Mexico,25.83402,"",-103.84866,Mapim�,Mapim�,Durango
-85,Mexico,26.39945937,"",-105.39033834,Ocampo,Nieves (Santa Mar�a de las),Durango
-296,Mexico,18.30990486,"",-103.04513979,Aquila,Parota (San Jos� de la),Michoac�n de Ocampo
-30,Mexico,20.52835387,"",-100.8156396,Celaya,Celaya,Guanajuato
-97,Mexico,20.55638986,"",-100.85477302,Celaya,Valles,Guanajuato
-90,Mexico,20.61597808,"",-100.7940331,Celaya,Nuestra Se�ora de la Concepci�n,Guanajuato
-600,Mexico,24.91900715,"",-104.91498942,Nuevo Ideal,unspecified site,Durango
-28,Mexico,20.03198403,"",-100.72203102,Ac�mbaro,Ac�mbaro,Guanajuato
-569,Mexico,20.90449714,"",-100.74580066,San Miguel de Allende,Guadiana,Guanajuato
-32,Mexico,20.91472711,"",-100.74453276,San Miguel de Allende,Grande (San Miguel el),Guanajuato
-29,Mexico,20.54640292,"",-100.68730243,Apaseo el Grande,Apaseo,Guanajuato
-96,Mexico,20.48224664,"",-100.96175473,Cortazar,Valle,Guanajuato
-602,Mexico,20.90472218,"",-101.01348434,Dolores Hidalgo Cuna de la Independencia Nacional,unspecified site,Guanajuato
-87,Mexico,21.15554836,"",-100.93314412,Dolores Hidalgo Cuna de la Independencia Nacional,Dolores,Guanajuato
-373,Mexico,21.01722265,"",-101.25731916,Guanajuato,Guanajuato,Guanajuato
-89,Mexico,21.01174597,"",-101.26805166,Guanajuato,Minas (Real de),Guanajuato
-33,Mexico,20.67362592,"",-101.34815569,Irapuato,Irapuato,Guanajuato
-637,Mexico,21.11019403,"",-101.62620943,Le�n,unspecified site,Guanajuato
-34,Mexico,21.11915789,"",-101.68121907,Le�n,Le�n,Guanajuato
-468,Mexico,17.46043836,"",-97.31971009,Santiago Tillo,Triyo (Santiago),Oaxaca
-420,Mexico,17.43929272,"",-97.31610113,San Juan Sayultepec,Andua (San Andr�s),Oaxaca
-377,Mexico,20.43057688,"",-101.72289019,P�njamo,P�njamo,Guanajuato
-36,Mexico,20.56974186,"",-101.197875,Salamanca,Salamanca,Guanajuato
-94,Mexico,20.21447677,"",-100.87868988,Salvatierra,Salvatierra,Guanajuato
-37,Mexico,21.48025179,"",-101.21426583,San Felipe,San Felipe,Guanajuato
-92,Mexico,21.0177697,"",-101.85845485,San Francisco del Rinc�n,Rinc�n (San Francisco del),Guanajuato
-31,Mexico,21.58331535,"",-100.46667445,San Luis de la Paz,Chamacuero,Guanajuato
-35,Mexico,21.2980429,"",-100.51702761,San Luis de la Paz,Paz (San Luis de la),Guanajuato
-91,Mexico,21.22170722,"",-100.49390832,San Luis de la Paz,Pozos (San Pedro de los),Guanajuato
-109,Mexico,18.24234671,"",-100.53507187,Tlapehuala,Tlapehuala,Guerrero
-110,Mexico,18.00836191,"",-102.17805877,La Uni�n de Isidoro Montes de Oca,Zacatula,Guerrero
-95,Mexico,21.10055059,"",-100.15840559,Tierra Blanca,Tierra Blanca (Santo Tom�s de),Guanajuato
-38,Mexico,20.39224939,"",-101.19204601,Valle de Santiago,Santiago (Valle de),Guanajuato
-302,Mexico,18.47760605,"",-100.97980079,Zir�ndaro,Zir�ndaro,Guerrero
-42,Mexico,18.74759452,"",-99.67533284,Pilcaya,Pilcaya,Guerrero
-301,Mexico,20.21169734,"",-101.128148,Yuriria,Yuriria,Guanajuato
-98,Mexico,16.87185194,"",-99.89811391,Acapulco de Ju�rez,Acapulco,Guerrero
-99,Mexico,17.30933331,"",-98.60473723,Atlamajalcingo del Monte,Atlamoxalsingo,Guerrero
-129,Mexico,20.06631431,"",-98.80009746,Pachuca de Soto,Pitahayas (Hacienda),Hidalgo
-49,Mexico,20.12309441,"",-98.73641404,Pachuca de Soto,Pachuca,Hidalgo
-148,Mexico,19.91560569,"",-98.6700283,Zempoala,Zempoala,Hidalgo
-140,Mexico,19.92237513,"",-98.57790108,Zempoala,Tochatlaco,Hidalgo
-51,Mexico,20.73750923,"",-99.38226934,Zimap�n,Zimap�n,Hidalgo
-162,Mexico,17.14116183,"",-100.06028622,Coyuca de Ben�tez,Citlaltomahua,Guerrero
-100,Mexico,17.00795376,"",-100.08783772,Coyuca de Ben�tez,Coyuca,Guerrero
-43,Mexico,18.55705455,"",-99.6036608,Taxco de Alarc�n,Taxco,Guerrero
-104,Mexico,17.2215539,"",-100.63007442,T�cpan de Galeana,Tecpan,Guerrero
-308,Mexico,16.76186117,"",-96.49052424,San Baltazar Chichic�pam,Chichicapa,Oaxaca
-107,Mexico,17.56626836,"",-99.39893371,Tixtla de Guerrero,Tixtla,Guerrero
-45,Mexico,17.12660521,"",-98.23695329,Tlacoachistlahuaca,Xicay�n,Guerrero
-135,Mexico,20.10281588,"",-99.157255,Tetepango,Tetepango,Hidalgo
-44,Mexico,17.54682214,"",-98.57669197,Tlapa de Comonfort,Tlapa,Guerrero
-101,Mexico,18.46538652,"",-100.57868243,Cutzamala de Pinz�n,Cutzamala,Guerrero
-182,Mexico,20.54834576,"",-104.04766543,Ameca,Ameca,Jalisco
-39,Mexico,17.59931786,"",-99.17698151,Chilapa de �lvarez,Chilapa,Guerrero
-102,Mexico,17.53332301,"",-99.48336652,Chilpancingo de los Bravo,El Zanj�n,Guerrero
-108,Mexico,17.79097692,"",-99.9786676,General Heliodoro Castillo,Tlacotepec,Guerrero
-105,Mexico,17.98155841,"",-100.07699297,General Heliodoro Castillo,Tetela del R�o,Guerrero
-40,Mexico,18.34428477,"",-99.53949452,Iguala de la Independencia,Iguala,Guerrero
-106,Mexico,18.3490407,"",-99.47920343,Iguala de la Independencia,Tuxpam,Guerrero
-431,Mexico,16.74491785,"",-98.47585936,Igualapa,Igualapa,Guerrero
-181,Mexico,20.0108714,"",-103.60043243,Amacueca,Amacueca,Jalisco
-603,Mexico,17.66907571,"",-99.91938152,Leonardo Bravo,unspecified site,Guerrero
-150,Mexico,20.29057946,"",-103.18959439,Chapala,Chapala,Jalisco
-187,Mexico,20.08891644,"",-103.86211252,Chiquilistl�n,Chiquistl�n,Jalisco
-188,Mexico,20.76527585,"",-104.08100734,Etzatl�n,Etzatl�n,Jalisco
-604,Mexico,20.47904047,"",-98.88703742,Metztitl�n,unspecified site,Hidalgo
-123,Mexico,20.59668484,"",-98.76336999,Metztitl�n,Meztitl�n,Hidalgo
-41,Mexico,17.77931047,"",-98.74113329,Olinal�,Olinal�,Guerrero
-194,Mexico,21.35636473,"",-101.93372131,Lagos de Moreno,Lagos,Jalisco
-118,Mexico,20.21587188,"",-98.73141712,Mineral del Chico,El Chico,Hidalgo
-379,Mexico,18.3609825,"",-100.66839484,Pungarabato,Pungarabato,Guerrero
-177,Mexico,18.28237549,"",-100.61228241,Pungarabato,Tanguanguato,Guerrero
-199,Mexico,19.71948982,"",-104.60239546,Villa Purificaci�n,Purificaci�n,Jalisco
-200,Mexico,20.37277314,"",-103.95778492,San Mart�n Hidalgo,R�o Grande,Jalisco
-425,Mexico,17.74098526,"",-97.14332107,San Miguel Huautla,Cuatla,Oaxaca
-645,Mexico,20.19507,"",-98.95305,Actopan,Chicahuasco,Hidalgo
-113,Mexico,20.26836922,"",-98.94337669,Actopan,Actopan,Hidalgo
-46,Mexico,19.71005399,"",-98.45029669,Apan,Apan,Hidalgo
-114,Mexico,20.05978921,"",-99.22003457,Atitalaquia,Atitalaquia,Hidalgo
-115,Mexico,20.28669863,"",-98.6703044,Atotonilco el Grande,Atotonilco,Hidalgo
-601,Mexico,19.35551042,"",-99.64629498,Toluca,unspecified site,M�xico
-244,Mexico,19.37086752,"",-99.58223566,Toluca,San Pablo,M�xico
-243,Mexico,19.3727493,"",-99.58025427,Toluca,San Andr�s,M�xico
-173,Mexico,19.29284944,"",-99.65422246,Toluca,Toluca (San Jos�),M�xico
-119,Mexico,20.01781946,"",-98.63586352,Epazoyucan,Epasoyucan (San Andr�s),Hidalgo
-112,Mexico,20.5969873,"",-98.06834455,Huehuetla,Achiotepec (San Andr�s),Hidalgo
-47,Mexico,20.46060499,"",-98.0766778,Huehuetla,Huehutla,Hidalgo
-581,Mexico,21.13333,"",-98.41667,Huejutla de Reyes,Huejutla,Hidalgo
-121,Mexico,20.37530361,"",-99.65089192,Huichapan,Huichapan,Hidalgo
-130,Mexico,20.53976587,"",-99.20197959,Ixmiquilpan,Remedios (Los),Hidalgo
-48,Mexico,20.48279773,"",-99.2194911,Ixmiquilpan,Ixmiquilpan,Hidalgo
-122,Mexico,21.00555556,"",-99.19032408,Jacala de Ledezma,Jacala,Hidalgo
-138,Mexico,19.8423003,"",-98.97947352,Tizayuca,Tizayuca,Hidalgo
-126,Mexico,20.14031644,"",-98.67197556,Mineral del Monte,Monte (Real de),Hidalgo
-125,Mexico,20.23003004,"",-99.21449349,Mixquiahuala de Ju�rez,Mixquiahuala,Hidalgo
-147,Mexico,20.89581372,"",-98.80574571,Molango de Escamilla,Yeytecomatl,Hidalgo
-111,Mexico,20.96530168,"",-98.7811382,Molango de Escamilla,Acayucan (San Mart�n de),Hidalgo
-156,Mexico,20.61627205,"",-102.90961285,Tepatitl�n de Morelos,Tecomatl�n,Jalisco
-117,Mexico,20.05004423,"",-98.71667579,Mineral de la Reforma,Chavarria (Hacienda),Hidalgo
-116,Mexico,20.08332712,"",-98.73335001,Mineral de la Reforma,Cadena (Hacienda),Hidalgo
-137,Mexico,20.15839623,"",-98.80141481,San Agust�n Tlaxiaca,Tilguatla,Hidalgo
-131,Mexico,20.11531504,"",-98.88642107,San Agust�n Tlaxiaca,San Agust�n,Hidalgo
-141,Mexico,20.40030375,"",-98.20140574,San Bartolo Tutotepec,Tototepec,Hidalgo
-139,Mexico,20.50282514,"",-98.09640052,San Bartolo Tutotepec,Tlachicomula (San Andr�s),Hidalgo
-204,Mexico,19.94141835,"",-105.24908732,Tomatl�n,Tomatl�n,Jalisco
-205,Mexico,20.62417365,"",-103.24153811,Tonal�,Tonal� (Santa Mar�a),Jalisco
-206,Mexico,19.69754169,"",-103.98322265,Tuxcacuesco,Tuscacuesco,Jalisco
-207,Mexico,19.55450074,"",-103.37598388,Tuxpan,Tuxpan,Jalisco
-133,Mexico,19.96754275,"",-98.51835974,Singuilucan,Singuilucan,Hidalgo
-128,Mexico,20.55000567,"",-99.51667961,Tecozautla,Palmar (Hacienda),Hidalgo
-50,Mexico,20.53390594,"",-99.63338866,Tecozautla,Tecozautla (Santiago),Hidalgo
-142,Mexico,20.33808712,"",-98.22585777,Tenango de Doria,Tutotepec,Hidalgo
-134,Mexico,20.33808712,"",-98.22585777,Tenango de Doria,Tenango,Hidalgo
-369,Mexico,19.78504986,"",-98.55224323,Tepeapulco,Tepeapulco,Hidalgo
-120,Mexico,19.75982496,"",-98.56450706,Tepeapulco,Guadalupe (San Pedro),Hidalgo
-132,Mexico,19.88282025,"",-99.25613583,Tepeji del R�o de Ocampo,Santiago,Hidalgo
-183,Mexico,19.78201606,"",-103.71123863,San Gabriel,Apango,Jalisco
-136,Mexico,20.19309019,"",-99.27310357,Tezontepec de Aldama,Tezontepec,Hidalgo
-656,Mexico,20.07987076,"",-99.38578161,Tula de Allende,Axuchitl�n (Santa Mar�a),Hidalgo
-655,Mexico,20.06022,"",-99.32175,Tula de Allende,Tultengo (Santiago),Hidalgo
-146,Mexico,20.05895571,"",-99.33587034,Tula de Allende,Xipacoya (San Marcos),Hidalgo
-144,Mexico,20.04266084,"",-99.3519776,Tula de Allende,Tula (San Jos�),Hidalgo
-143,Mexico,20.05478924,"",-99.34198157,Tula de Allende,Tula,Hidalgo
-124,Mexico,20.10256458,"",-99.39614948,Tula de Allende,Michimaloya (San Juan Bautista),Hidalgo
-145,Mexico,20.08201181,"",-98.36890552,Tulancingo de Bravo,Tulancingo,Hidalgo
-210,Mexico,19.95449079,"",-99.84340014,Acambay de Ru�z Casta�eda,Acambay,M�xico
-864,Mexico,23.6897,"",-100.8875,Real de Catorce,Real de Catorce,San Lu�s Potos�
-180,Mexico,20.70083755,"",-103.97655747,Ahualulco de Mercado,Agualuco,Jalisco
-185,Mexico,19.77142991,"",-104.36989144,Autl�n de Navarro,Autl�n,Jalisco
-376,Mexico,20.27780078,"",-102.55012855,La Barca,Barca (La),Jalisco
-186,Mexico,21.83190072,"",-103.78015986,Bola�os,Bola�os (Real de),Jalisco
-158,Mexico,19.70338489,"",-103.46293077,Zapotl�n el Grande,Zapotl�n,Jalisco
-151,Mexico,20.36585387,"",-103.82266049,Cocula,Cocula (San Miguel),Jalisco
-405,Mexico,22.11466975,"",-103.26681913,Colotl�n,Cuagolotl�n (San Luis),Jalisco
-189,Mexico,20.57667515,"",-104.3810176,Guachinango,Guachinango,Jalisco
-152,Mexico,20.67730516,"",-103.35568889,Guadalajara,Guadalajara,Jalisco
-191,Mexico,21.16887176,"",-102.46568649,Jalostotitl�n,Jalostotitl�n,Jalisco
-235,Mexico,19.21899805,"",-98.83558043,Cocotitl�n,Metla (San Andr�s),M�xico
-222,Mexico,19.23257419,"",-98.86558928,Cocotitl�n,Cocotitl�n (San Jos�),M�xico
-149,Mexico,19.83312379,"",-104.08263528,El Lim�n,Amula,Jalisco
-587,Mexico,19.58695,"",-102.9097,Santa Mar�a del Oro,Oro (Santa Mar�a del),Jalisco
-195,Mexico,20.525844,"",-104.78685849,Mascota,Mascota,Jalisco
-650,Mexico,19.9754,"",-99.17406,Apaxco,Apasco (San Francisco),M�xico
-644,Mexico,21.0515,"",-104.48359,Ahuacatl�n,Ahuacatl�n,Nayarit
-179,Mexico,21.2105594,"",-102.8276129,Mexticac�n,Acatzinco (Acasico),Jalisco
-394,Mexico,19.805047,"",-100.17451725,Tlalpujahua,Tlalpujahua,Michoac�n de Ocampo
-196,Mexico,20.35140756,"",-102.77208043,Ocotl�n,Ocotl�n,Jalisco
-198,Mexico,20.38168556,"",-102.92819771,Poncitl�n,Poncitl�n,Jalisco
-201,Mexico,21.09967267,"",-103.4335127,San Crist�bal de la Barranca,San Luis,Jalisco
-154,Mexico,19.88337626,"",-103.600996,Sayula,Sayula,Jalisco
-605,Mexico,20.57805569,"",-103.61858245,Tala,unspecified site,Jalisco
-591,Mexico,20.38063987,"",-104.82296544,Talpa de Allende,Talpa,Jalisco
-202,Mexico,19.6761665,"",-103.25403268,Tamazula de Gordiano,Tamazula,Jalisco
-184,Mexico,19.92756433,"",-103.74235075,Tapalpa,Atasco,Jalisco
-208,Mexico,20.22835936,"",-103.56987671,Zacoalco de Torres,Zacoalco,Jalisco
-209,Mexico,20.72669258,"",-103.39123446,Zapopan,Zapopan,Jalisco
-157,Mexico,19.54782963,"",-103.81349454,Zapotitl�n de Vadillo,Zapotitl�n,Jalisco
-203,Mexico,20.4239304,"",-103.02844838,Zapotl�n del Rey,Tecualtichillo,Jalisco
-663,Mexico,19.61457752,"",-98.91613709,Acolman,Cuanalan,M�xico
-661,Mexico,19.63215568,"",-98.91299637,Acolman,Acolman,M�xico
-169,Mexico,19.61417985,"",-98.93523545,Acolman,Tepechpan,M�xico
-212,Mexico,20.09892508,"",-99.82727917,Aculco,Aculco (San Je�nimo),M�xico
-213,Mexico,18.86453803,"",-99.89394483,Almoloya de Alquisiras,Almoloya (San Andr�s),M�xico
-220,Mexico,19.15539023,"",-98.76363436,Amecameca,Chalma,M�xico
-159,Mexico,19.12842025,"",-98.7630857,Amecameca,Amecameca,M�xico
-214,Mexico,19.55895021,"",-98.91281025,Atenco,Atenco,M�xico
-247,Mexico,19.66755642,"",-99.1794875,Cuautitl�n,San Mart�n,M�xico
-164,Mexico,19.66755642,"",-99.1794875,Cuautitl�n,Cuautitl�n,M�xico
-264,Mexico,19.24038586,"",-98.84613625,Chalco,Tlapina,M�xico
-239,Mexico,19.21733135,"",-98.90697082,Chalco,Neztipan,M�xico
-219,Mexico,19.20983169,"",-98.92974906,Chalco,Ayotzingo (Santa Catarina),M�xico
-160,Mexico,19.26535425,"",-98.89781,Chalco,Chalco,M�xico
-641,Mexico,19.90707,"",-99.07784,Hueypoxtla,Hueypoxtla,M�xico
-161,Mexico,19.4381259,"",-98.95448214,Chimalhuac�n,Chimalhuac�n,M�xico
-622,Mexico,19.49828005,"",-99.04413125,Ecatepec de Morelos,unspecified site,M�xico
-165,Mexico,19.61033796,"",-99.06031363,Ecatepec de Morelos,Ecatepec,M�xico
-267,Mexico,19.83477757,"",-99.20365079,Huehuetoca,Tututepeque,M�xico
-225,Mexico,19.83477757,"",-99.20365079,Huehuetoca,Huehuetoca,M�xico
-227,Mexico,19.36173842,"",-99.35115167,Huixquilucan,Huixquilucan,M�xico
-263,Mexico,19.30343817,"",-98.91224886,Ixtapaluca,Tlapacoya,M�xico
-218,Mexico,19.31621528,"",-98.92752699,Ixtapaluca,Ayotla,M�xico
-233,Mexico,18.78401835,"",-99.71170908,Ixtapan de la Sal,Malinaltengo,M�xico
-228,Mexico,19.5695083,"",-99.76727066,Ixtlahuaca,Ixtlahuacan,M�xico
-639,Mexico,19.17963,"",-99.41399,Xalatlaco,Xalatlaco,M�xico
-229,Mexico,19.95477218,"",-99.53476658,Jilotepec,Jilotepec,M�xico
-423,Mexico,16.90885096,"",-96.72003822,San Bartolo Coyotepec,Chicomesuchil (San Juan Bautista),Oaxaca
-230,Mexico,19.28535019,"",-99.51226568,Lerma,Lerma (Santa Clara),M�xico
-232,Mexico,18.94897705,"",-99.49504521,Malinalco,Malinalco,M�xico
-444,Mexico,17.80487132,"",-97.54082991,San Pedro Nopala,Nopala,Oaxaca
-234,Mexico,19.25174363,"",-99.6050494,Metepec,Metepec (San Diego),M�xico
-256,Mexico,19.7447797,"",-99.18142562,Teoloyucan,Teoloyucan (San Antonio),M�xico
-257,Mexico,19.69036354,"",-98.8611374,Teotihuac�n,Teotihuacan (San Juan),M�xico
-170,Mexico,19.71672296,"",-99.22393103,Tepotzotl�n,Tepotzotl�n,M�xico
-428,Mexico,17.8054204,"",-97.77638638,Heroica Ciudad de Huajuapan de Le�n,Huajuapan,Oaxaca
-370,Mexico,19.91004431,"",-99.14504001,Tequixquiac,Tequixquiac,M�xico
-238,Mexico,19.47590306,"",-99.23809761,Naucalpan de Ju�rez,Naucalpan (San Bartolom�),M�xico
-582,Mexico,19.72389,"",-99.05278,Nextlalpan,Jaltocan (Santa Marta),M�xico
-402,Mexico,18.8123245,"",-98.95503073,Cuautla,Cuautla de Amilpas (Coautla),Morelos
-403,Mexico,18.91925767,"",-99.23448801,Cuernavaca,Cuernavaca,Morelos
-127,Mexico,19.78255181,"",-98.71280861,Nopaltepec,Nopaltepec,M�xico
-294,Mexico,19.41259448,"",-101.60536091,Salvador Escalante,Opopeo (Santa Mar�a),Michoac�n de Ocampo
-279,Mexico,19.40534269,"",-101.63871044,Salvador Escalante,Cobres (Santa Clara de los),Michoac�n de Ocampo
-389,Mexico,19.23563027,"",-101.4570499,Tac�mbaro,Tac�mbaro (San Jer�nimo),Michoac�n de Ocampo
-103,Mexico,17.61657957,"",-98.51445984,Alpoyeca,Ixcateopan,Guerrero
-390,Mexico,19.73757736,"",-102.07953815,Cher�n,Tanaco,Michoac�n de Ocampo
-166,Mexico,19.69755317,"",-98.7550296,Otumba,Otumba,M�xico
-258,Mexico,19.42537545,"",-99.55504037,Otzolotepec,Tetitl�n,M�xico
-172,Mexico,19.20507593,"",-98.80280595,Tlalmanalco,Tlalmanalco,M�xico
-262,Mexico,19.53729129,"",-99.19503533,Tlalnepantla de Baz,Tlalnepantla,M�xico
-163,Mexico,18.64374676,"",-100.21894161,Tlatlaya,Coatepec,M�xico
-395,Mexico,20.00337741,"",-101.41454692,Morelos,Uango,Michoac�n de Ocampo
-385,Mexico,19.79366533,"",-101.17731215,Tar�mbaro,San Miguel,Michoac�n de Ocampo
-393,Mexico,19.19006755,"",-102.84484871,Tepalcatepec,Tepalcatepec,Michoac�n de Ocampo
-266,Mexico,19.6456164,"",-99.16975886,Tultitl�n,Tultitl�n,M�xico
-81,Mexico,19.66869753,"",-99.10197576,Tultitl�n,Salinas (San Pablo de las),M�xico
-231,Mexico,19.36926603,"",-100.17255319,Villa de Allende,Malacatepec,M�xico
-280,Mexico,19.58341926,"",-101.63119516,Tzintzuntzan,Cucuchio,Michoac�n de Ocampo
-399,Mexico,19.38342832,"",-102.07620394,Uruapan,Xical�n (San Francisco),Michoac�n de Ocampo
-382,Mexico,19.44257933,"",-102.07654206,Uruapan,San Gregorio,Michoac�n de Ocampo
-300,Mexico,19.42672912,"",-102.061787,Uruapan,Uruapan (San Francisco),Michoac�n de Ocampo
-290,Mexico,19.37481763,"",-102.07898175,Uruapan,Juchitato,Michoac�n de Ocampo
-586,Mexico,18.7189,"",-99.77635,Zacualpan,Zacualpan,M�xico
-268,Mexico,19.2839607,"",-99.73366158,Zinacantepec,Zinacantepec,M�xico
-269,Mexico,19.79754946,"",-99.09948347,Zumpango,Zumpango de la Laguna,M�xico
-404,Mexico,18.88232002,"",-99.17614295,Jiutepec,Xiuhtepeque,Morelos
-237,Mexico,19.53332214,"",-98.81663842,Texcoco,Molino de Flores,M�xico
-171,Mexico,19.50618234,"",-98.88225305,Texcoco,Texcoco,M�xico
-251,Mexico,18.85786941,"",-99.96561582,Sultepec,Sultepec,M�xico
-443,Mexico,17.26326703,"",-96.58775236,Santa Catarina Ixtepeji,Nesicho (San Pedro),Oaxaca
-432,Mexico,17.2665567,"",-96.56246503,Santa Catarina Ixtepeji,Ixtepeji (Santa Catarina),Oaxaca
-242,Mexico,19.77424809,"",-98.98197344,Tec�mac,Reyes (Los),M�xico
-252,Mexico,19.20230623,"",-98.87058658,Temamatla,Temamatla,M�xico
-253,Mexico,19.9153238,"",-100.00394994,Temascalcingo,Temascaltzingo (San Miguel),M�xico
-167,Mexico,19.04396983,"",-100.04172847,Temascaltepec,Temascaltepec,M�xico
-254,Mexico,19.46923432,"",-99.59365959,Temoaya,Temoaya,M�xico
-250,Mexico,19.0109517,"",-99.54142818,Tenancingo,Suchiaca,M�xico
-248,Mexico,19.01261826,"",-99.55281731,Tenancingo,Sepaiatitla,M�xico
-221,Mexico,18.99484134,"",-99.57031764,Tenancingo,Coapatongo,M�xico
-315,Mexico,16.86606485,"",-96.96609307,San Bernardo Mixtepec,Mixtepec,Oaxaca
-255,Mexico,19.10314087,"",-99.58921751,Tenango del Valle,Tenango del Valle,M�xico
-249,Mexico,19.07026307,"",-99.55624604,Tenango del Valle,Sictepec,M�xico
-224,Mexico,19.128941,"",-99.608256,Tenango del Valle,Huayocota,M�xico
-273,Mexico,20.15030799,"",-101.70871433,Angamacutiro,Angamac�tiro,Michoac�n de Ocampo
-642,Mexico,19.03533443,"",-102.38596301,Apatzing�n,Tierra Caliente,Michoac�n de Ocampo
-378,Mexico,19.01660455,"",-102.48327702,Apatzing�n,Piz�ndaro,Michoac�n de Ocampo
-274,Mexico,19.08869496,"",-102.35122897,Apatzing�n,Apatzing�n,Michoac�n de Ocampo
-272,Mexico,19.16093851,"",-102.53954634,Buenavista,Amatl�n (Santa Ana),Michoac�n de Ocampo
-16,Mexico,18.69675788,"",-103.66237356,Coahuayana,Alimanzi,Michoac�n de Ocampo
-292,Mexico,19.79701857,"",-102.22148568,Charapan,Ocumicho (San Pedro),Michoac�n de Ocampo
-392,Mexico,19.69174933,"",-100.55367293,Hidalgo,Taximaroa,Michoac�n de Ocampo
-396,Mexico,19.89920997,"",-101.50481932,Huaniqueo,Uaniqueo,Michoac�n de Ocampo
-388,Mexico,18.5109741,"",-101.10673755,Huetamo,Santiago,Michoac�n de Ocampo
-386,Mexico,18.53700235,"",-100.86073698,Huetamo,San Nicol�s,Michoac�n de Ocampo
-291,Mexico,18.60601872,"",-100.90796708,Huetamo,Nimeo,Michoac�n de Ocampo
-284,Mexico,18.6270482,"",-100.89730321,Huetamo,Huetamo,Michoac�n de Ocampo
-283,Mexico,18.6270482,"",-100.89730321,Huetamo,G�imeo,Michoac�n de Ocampo
-175,Mexico,18.6340238,"",-100.89951129,Huetamo,Cuitzeo,Michoac�n de Ocampo
-286,Mexico,19.78782529,"",-100.9686968,Indaparapeo,Indaparapeo,Michoac�n de Ocampo
-429,Mexico,16.02583239,"",-95.66550927,San Pedro Huamelula,Huamelula,Oaxaca
-287,Mexico,19.95698651,"",-102.30372935,Jacona,Jacona,Michoac�n de Ocampo
-289,Mexico,19.99420254,"",-102.71762819,Jiquilpan,Jiquilpan,Michoac�n de Ocampo
-281,Mexico,19.42037264,"",-101.21479725,Madero,Et�cuaro (San Francisco),Michoac�n de Ocampo
-375,Mexico,19.89338175,"",-100.44285023,Maravat�o,Maravat�o,Michoac�n de Ocampo
-387,Mexico,19.66924921,"",-101.19257511,Morelia,Santa Mar�a,Michoac�n de Ocampo
-288,Mexico,19.65091686,"",-101.15118532,Morelia,Jes�s del Monte,Michoac�n de Ocampo
-278,Mexico,19.52616894,"",-101.36263565,Morelia,Coapa (Hacienda),Michoac�n de Ocampo
-176,Mexico,19.70452525,"",-101.18507503,Morelia,Morelia (alias Valladolid),Michoac�n de Ocampo
-606,Mexico,19.20658922,"",-101.8813938,Nuevo Urecho,unspecified site,Michoac�n de Ocampo
-398,Mexico,19.16563376,"",-101.86816943,Nuevo Urecho,Urecho (San Antonio),Michoac�n de Ocampo
-285,Mexico,20.25586195,"",-101.94816841,Numar�n,Huamar�n,Michoac�n de Ocampo
-397,Mexico,19.68146897,"",-102.11231648,Paracho,Urapicho,Michoac�n de Ocampo
-295,Mexico,19.64200039,"",-102.04789367,Paracho,Paracho (San Pedro),Michoac�n de Ocampo
-293,Mexico,19.65535911,"",-102.13092791,Paracho,Nurio,Michoac�n de Ocampo
-276,Mexico,19.70007936,"",-102.01592563,Paracho,Cheranachegua,Michoac�n de Ocampo
-275,Mexico,19.66285896,"",-102.02398127,Paracho,Aranza (San Jer�nimo),Michoac�n de Ocampo
-271,Mexico,19.66591427,"",-102.07342675,Paracho,Aguira,Michoac�n de Ocampo
-178,Mexico,19.51647818,"",-101.61091681,P�tzcuaro,P�tzcuaro,Michoac�n de Ocampo
-297,Mexico,19.51755402,"",-102.41457158,Perib�n,Perib�n,Michoac�n de Ocampo
-298,Mexico,20.33918924,"",-102.02511296,La Piedad,Piedad (La),Michoac�n de Ocampo
-648,Mexico,20.13658977,"",-101.46056776,Puru�ndiro,Armadillo (Santa Isabel de),Michoac�n de Ocampo
-374,Mexico,20.08809089,"",-101.51593618,Puru�ndiro,Puru�ndiro,Michoac�n de Ocampo
-381,Mexico,19.80977434,"",-100.89425297,Quer�ndaro,Quer�ndaro,Michoac�n de Ocampo
-303,Mexico,22.49269948,"",-105.36104387,Acaponeta,Acaponeta,Nayarit
-384,Mexico,18.38070372,"",-100.67200607,San Lucas,San Jer�nimo,Michoac�n de Ocampo
-383,Mexico,18.58898979,"",-100.78757336,San Lucas,San Lucas,Michoac�n de Ocampo
-380,Mexico,18.58902628,"",-100.78756443,San Lucas,Purechucho,Michoac�n de Ocampo
-153,Mexico,21.9213547,"",-104.51042769,Del Nayar,Huaynamota,Nayarit
-407,Mexico,21.53995952,"",-105.28576008,San Blas,San Blas,Nayarit
-197,Mexico,21.33414018,"",-104.58852113,Santa Mar�a del Oro,Oro (Santa Mar�a del),Nayarit
-408,Mexico,21.75136074,"",-105.28127646,Santiago Ixcuintla,Santiago,Nayarit
-155,Mexico,21.80432106,"",-105.34584426,Santiago Ixcuintla,Centicpac (alias Sentispac),Nayarit
-340,Mexico,22.38271941,"",-105.41739236,Tecuala,Aztatl�n (Nueva Galicia),Nayarit
-607,Mexico,21.80313838,"",-104.8399737,Tepic,unspecified site,Nayarit
-304,Mexico,21.51663107,"",-104.894362,Tepic,Tepic,Nayarit
-391,Mexico,19.88892972,"",-102.20539969,Tanganc�cuaro,Tanganz�cuaro,Michoac�n de Ocampo
-282,Mexico,19.89218271,"",-102.12916704,Tanganc�cuaro,Et�cuaro (Hacienda),Michoac�n de Ocampo
-277,Mexico,19.90032039,"",-101.33176598,Chuc�ndiro,Chuc�ndiro,Michoac�n de Ocampo
-299,Mexico,19.97059465,"",-102.05595097,Tlazazalca,Tlazazalca,Michoac�n de Ocampo
-608,Mexico,25.62114127,"",-99.80702808,Cadereyta Jim�nez,unspecified site,Nuevo Le�n
-410,Mexico,25.59065326,"",-100.00146174,Cadereyta Jim�nez,Cadereyta (Villa),Nuevo Le�n
-411,Mexico,26.09007529,"",-99.6153443,Cerralvo,Cerralvo,Nuevo Le�n
-313,Mexico,16.23716317,"",-97.29248629,Santa Catarina Juquila,Juquila,Oaxaca
-400,Mexico,19.98559485,"",-102.28345832,Zamora,Zamora,Michoac�n de Ocampo
-401,Mexico,19.43812266,"",-100.35896138,Zit�cuaro,Zit�cuaro,Michoac�n de Ocampo
-265,Mexico,18.95620648,"",-98.98142106,Tlayacapan,Tlayacapan,Morelos
-450,Mexico,17.38905116,"",-97.22832127,Magdalena Zahuatl�n,Santa Mar�a Magdalena,Oaxaca
-406,Mexico,21.10387048,"",-104.43628779,Jala,Jala,Nayarit
-415,Mexico,25.68650399,"",-100.19260271,Guadalupe,Potos� (Hacienda),Nuevo Le�n
-635,Mexico,16.31262041,"",-95.71608196,Asunci�n Tlacolulita,unspecified site,Oaxaca
-413,Mexico,25.83493034,"",-99.76769305,Doctor Gonz�lez,Lampazos,Nuevo Le�n
-409,Mexico,24.94110256,"",-99.35805645,Linares,Boca de Leones (Real de San Pedro de Boca de),Nuevo Le�n
-305,Mexico,25.67147771,"",-100.30868984,Monterrey,Monterrey,Nuevo Le�n
-414,Mexico,25.78508392,"",-100.05118474,Pesquer�a,Pesquer�a,Nuevo Le�n
-416,Mexico,25.96285806,"",-100.29203598,Salinas Victoria,Salinas (Real de las),Nuevo Le�n
-68,Mexico,25.96285806,"",-100.29203598,Salinas Victoria,Salinas,Nuevo Le�n
-447,Mexico,17.84236981,"",-96.88081681,Concepci�n P�palo,P�palo,Oaxaca
-460,Mexico,16.39993809,"",-95.60355258,Magdalena Tequisistl�n,Tequixitl�n,Oaxaca
-451,Mexico,17.4646078,"",-97.28220333,San Andr�s Sinaxtla,Sinastla (San Andr�s),Oaxaca
-418,Mexico,17.74431413,"",-97.49916507,San Antonio Acutla,Acutla,Oaxaca
-312,Mexico,16.4340984,"",-95.01964594,Juchit�n de Zaragoza,Juchit�n,Oaxaca
-628,Mexico,17.72463936,"",-98.10914401,Mariscala de Ju�rez,unspecified site,Oaxaca
-629,Mexico,18.06987779,"",-96.95466653,Mazatl�n Villa de Flores,unspecified site,Oaxaca
-439,Mexico,17.13966288,"",-96.10024196,Mixistl�n de la Reforma,Mezitl�n,Oaxaca
-441,Mexico,16.60853913,"",-95.97856333,Nejapa de Madero,Nejapa (San Bartolom�),Oaxaca
-440,Mexico,16.60853913,"",-95.97856333,Nejapa de Madero,Nexapa,Oaxaca
-306,Mexico,17.06851577,"",-96.72025133,Oaxaca de Ju�rez,Antequera (alias Oaxaca),Oaxaca
-307,Mexico,17.06601561,"",-97.67749965,San Esteban Atatlahuca,Atlatlauca,Oaxaca
-471,Mexico,17.87990221,"",-96.52802973,San Felipe Usila,Usila,Oaxaca
-436,Mexico,17.87986804,"",-96.52802426,San Felipe Usila,Juxtepec,Oaxaca
-435,Mexico,16.89657347,"",-97.30720465,San Francisco Cahuacu�,Junco (San Francisco),Oaxaca
-469,Mexico,17.39659409,"",-96.11829823,San Ildefonso Villa Alta,Tuighu (San Juan),Oaxaca
-320,Mexico,17.33822415,"",-96.15162653,San Ildefonso Villa Alta,Villa Alta,Oaxaca
-445,Mexico,17.65598645,"",-98.10500908,San Jorge Nuchita,Nuchita,Oaxaca
-424,Mexico,17.72431546,"",-97.3238765,San Juan Bautista Coixtlahuaca,Coixtlahuaca,Oaxaca
-310,Mexico,17.79931301,"",-96.95997505,San Juan Bautista Cuicatl�n,Cucallan,Oaxaca
-462,Mexico,18.08679979,"",-96.12412923,San Juan Bautista Tuxtepec,Textepeque (Santa Clara),Oaxaca
-454,Mexico,17.35711131,"",-97.56888508,Santa Cruz Tayata,Tayata (Santa Cruz),Oaxaca
-438,Mexico,17.30544385,"",-97.82999905,San Juan Mixtepec,Mixtepec (San Juan),Oaxaca
-458,Mexico,17.55127243,"",-97.42527162,San Juan Teposcolula,Teposcolula,Oaxaca
-422,Mexico,17.30683623,"",-96.44635684,Capul�lpam de M�ndez,Calpulalpa (San Mateo),Oaxaca
-442,Mexico,17.65653695,"",-98.41696685,San Mateo Nej�pam,Nejapa (Santiago),Oaxaca
-426,Mexico,16.84523228,"",-97.20998702,Villa Sola de Vega,Elotepec,Oaxaca
-430,Mexico,17.27711597,"",-96.88275515,San Pablo Huitzo,Huizo,Oaxaca
-419,Mexico,17.03827902,"",-96.27080097,San Pablo Villa de Mitla,Albarradas,Oaxaca
-437,Mexico,15.98356695,"",-97.08303755,San Pedro Mixtepec,Mixtepec (San Pedro),Oaxaca
-459,Mexico,16.37520986,"",-95.2599326,Santa Mar�a Mixtequilla,Tequila,Oaxaca
-317,Mexico,16.13078003,"",-96.37024247,Santa Mar�a Ozolotepec,Ocelotepeque,Oaxaca
-314,Mexico,16.18744761,"",-96.61802838,Santa Luc�a Miahuatl�n,Miahuatl�n,Oaxaca
-626,Mexico,17.26703,"",-97.68572,Heroica Ciudad de Tlaxiaco,unspecified site,Oaxaca
-466,Mexico,17.27020968,"",-97.67944188,Heroica Ciudad de Tlaxiaco,Tlaxiaco,Oaxaca
-474,Mexico,17.56602838,"",-97.26860039,Santa Mar�a Chacho�pam,Zultpec,Oaxaca
-452,Mexico,17.56602838,"",-97.26860039,Santa Mar�a Chacho�pam,Sultepeque (San Mateo),Oaxaca
-585,Mexico,17.07908541,"",-96.76308178,Santa Mar�a Atzompa,Mixe,Oaxaca
-470,Mexico,17.09383196,"",-96.0646856,Santa Mar�a Tlahuitoltepec,Tultepec,Oaxaca
-448,Mexico,16.27744463,"",-96.05245461,Santa Mar�a Quiegolani,Quiegolani,Oaxaca
-421,Mexico,17.76272496,"",-96.88323638,Santos Reyes P�palo,Cacalotepec (Santa Mar�a Asunci�n),Oaxaca
-427,Mexico,17.82792129,"",-97.73166902,Santiago Huajolotitl�n,Guajolotipac (Santiago),Oaxaca
-433,Mexico,16.28133146,"",-97.82361067,Santiago Jamiltepec,Jamiltepec,Oaxaca
-632,Mexico,17.19001748,"",-96.95761717,Santiago Suchilquitongo,unspecified site,Oaxaca
-461,Mexico,17.66320856,"",-97.4711026,Villa Tej�pam de la Uni�n,Texopan (Santiago),Oaxaca
-463,Mexico,17.28405655,"",-97.33915644,Santiago Tilantongo,Tilantongo,Oaxaca
-311,Mexico,17.2674337,"",-96.41830436,Santiago Xiacu�,Ixtl�n,Oaxaca
-446,Mexico,16.14938839,"",-96.30996246,Santo Domingo Ozolotepec,Ozolotepec,Oaxaca
-434,Mexico,17.48964331,"",-97.33915731,Santo Domingo Yanhuitl�n,Juchiltepeque (San Juan),Oaxaca
-321,Mexico,17.52738477,"",-97.34470503,Santo Domingo Yanhuitl�n,Yanhuitl�n,Oaxaca
-455,Mexico,17.35350255,"",-96.61191983,Teococuilco de Marcos P�rez,Teoculco,Oaxaca
-453,Mexico,17.67570665,"",-97.57166096,Villa de Tamazul�pam del Progreso,Tamazulapa,Oaxaca
-456,Mexico,18.1331862,"",-97.07248184,Teotitl�n de Flores Mag�n,Teotitl�n del Camino Real,Oaxaca
-473,Mexico,16.86606507,"",-96.78497817,Zimatl�n de �lvarez,Zimatl�n,Oaxaca
-465,Mexico,16.95435175,"",-96.47607316,Tlacolula de Matamoros,Tlacolula,Oaxaca
-609,Mexico,16.96193588,"",-96.42655031,Villa D�az Ordaz,unspecified site,Oaxaca
-472,Mexico,16.9507419,"",-96.7502502,Villa de Zaachila,Zaachila,Oaxaca
-329,Mexico,19.07150681,"",-97.95278381,Acajete,Ocopetlayucan,Puebla
-475,Mexico,18.20207112,"",-98.04861899,Acatl�n,Acatl�n,Puebla
-371,Mexico,18.98036592,"",-97.78221711,Acatzingo,Acatzincotepec,Puebla
-487,Mexico,18.4098743,"",-97.30026899,Ajalpan,Nativitas (Santa Mar�a),Puebla
-479,Mexico,18.82343336,"",-98.5816915,Atzitzihuac�n,Atzitzihuaca (Santiago),Puebla
-476,Mexico,19.04481504,"",-98.04501053,Amozoc,Amozoc,Puebla
-578,Mexico,19.74433,"",-97.97226,Aquixtla,Chichicaxtla,Puebla
-527,Mexico,28.62963864,"",-109.61132794,Soyopa,Huerta (San Antonio de la),Sonora
-325,Mexico,17.97100686,"",-97.86028007,Chila,Chila,Puebla
-309,Mexico,18.26318185,"",-97.14637266,Coxcatl�n,Coscatl�n,Puebla
-327,Mexico,18.95620954,"",-98.01750612,Cuautinch�n,Cuautinch�n,Puebla
-652,Mexico,19.97753,"",-97.54548,Cuetzalan del Progreso,Xocoyotepec,Puebla
-482,Mexico,19.60533921,"",-97.62110556,Cuyoaco,Cuyoaco,Puebla
-323,Mexico,18.61764145,"",-97.41416061,Chapulco,Chapulco,Puebla
-324,Mexico,18.30098899,"",-98.60390729,Chiautla,Chiautla de la Sal,Puebla
-504,Mexico,20.08673441,"",-97.99806433,Chiconcuautla,Zempoala,Puebla
-483,Mexico,18.6784405,"",-98.05139793,Huatlatlauca,Huatlatlahuca,Puebla
-484,Mexico,20.17531412,"",-98.05278788,Huauchinango,Huauchinango,Puebla
-477,Mexico,20.20783956,"",-98.0313986,Huauchinango,Atenguillo (Santiago),Puebla
-328,Mexico,19.16063735,"",-98.40641122,Huejotzingo,Huejotzingo,Puebla
-480,Mexico,20.03368197,"",-97.66833502,Hueytlalpan,Citlaltepec,Puebla
-490,Mexico,19.42975988,"",-97.61677724,Libres,Teoloyuca,Puebla
-486,Mexico,19.46426549,"",-97.68638997,Libres,Llanos (San Juan de los),Puebla
-654,Mexico,19.26367133,"",-97.53168697,Oriental,Malpa�s,Puebla
-493,Mexico,18.05072506,"",-97.84027977,Petlalcingo,Tepeji de la Seda,Puebla
-627,Mexico,18.96069,"",-98.17019,Puebla,unspecified site,Puebla
-499,Mexico,18.92561418,"",-98.13563342,Puebla,Valsequillo,Puebla
-498,Mexico,18.96901156,"",-98.1858441,Puebla,Totomihuacan,Puebla
-481,Mexico,19.04397292,"",-98.19751139,Puebla,Cuetlaxcoapa,Puebla
-332,Mexico,19.10483821,"",-98.12973204,Puebla,Resurrecci�n (La),Puebla
-330,Mexico,19.04397292,"",-98.19751139,Puebla,Puebla de los �ngeles,Puebla
-485,Mexico,18.60375168,"",-98.46529379,Iz�car de Matamoros,Iz�car,Puebla
-501,Mexico,18.32011655,"",-98.84530968,Jolalpan,Xolalpan,Puebla
-488,Mexico,18.32432075,"",-98.85030137,Jolalpan,Santa Ana,Puebla
-502,Mexico,20.02896013,"",-97.57527748,Jonotla,Xonotla,Puebla
-326,Mexico,19.06203262,"",-98.30640045,San Pedro Cholula,Cholula,Puebla
-500,Mexico,19.26952476,"",-98.51474351,San Salvador el Verde,Verde (San Salvador el),Puebla
-503,Mexico,19.94313038,"",-97.96000771,Zacatl�n,Zacatl�n,Puebla
-643,Mexico,18.94225823,"",-97.81931642,Los Reyes de Ju�rez,San Pablo (Valle de),Puebla
-545,Mexico,19.28396363,"",-98.43362608,San Mart�n Texmelucan,Texmelucan (San Salvador),Puebla
-489,Mexico,18.89925989,"",-97.96945546,Tecali de Herrera,Tecali,Puebla
-333,Mexico,18.88398062,"",-97.72778073,Tecamachalco,Tecamachalco,Puebla
-334,Mexico,18.46261237,"",-97.39304631,Tehuac�n,Tehuac�n,Puebla
-491,Mexico,18.46983918,"",-98.77780231,Teotlalco,Teotlalco,Puebla
-335,Mexico,18.96675759,"",-97.90250568,Tepeaca,Tepeaca,Puebla
-610,Mexico,18.54794342,"",-97.89651992,Tepexi de Rodr�guez,unspecified site,Puebla
-494,Mexico,19.49065337,"",-97.4911081,Tepeyahualco,Tepeyahualco,Puebla
-495,Mexico,19.81617097,"",-97.80722211,Tetela de Ocampo,Tetela del R�o,Puebla
-496,Mexico,19.8161931,"",-97.36055034,Teziutl�n,Teziutl�n,Puebla
-478,Mexico,18.97789956,"",-98.47362795,Tianguismanalco,Atlixco,Puebla
-322,Mexico,18.97789956,"",-98.47362795,Tianguismanalco,Atlizuca,Puebla
-497,Mexico,18.89259036,"",-98.57280394,Tochimilco,Tochimilco,Puebla
-93,Mexico,21.9324557,"",-99.9970194,Rioverde,R�o Verde,San Luis Potos�
-492,Mexico,18.33511753,"",-97.01803633,Zoquitl�n,Tepantitl�n (Real de),Puebla
-505,Mexico,20.71364521,"",-99.82115971,Cadereyta de Montes,Cadereyta,Quer�taro
-510,Mexico,23.68988329,"",-100.88759476,Catorce,Catorce (Real de),San Luis Potos�
-519,Mexico,22.15246334,"",-100.994799,San Luis Potos�,Tequisquiapa,San Luis Potos�
-339,Mexico,22.15161539,"",-100.97648347,San Luis Potos�,San Luis Potos�,San Luis Potos�
-507,Mexico,20.79114103,"",-100.05033139,Col�n,San Francisco,Quer�taro
-336,Mexico,20.58807079,"",-100.3931286,Quer�taro,Quer�taro,Quer�taro
-506,Mexico,20.38836157,"",-99.99422916,San Juan del R�o,R�o (San Juan del),Quer�taro
-616,Mexico,24.28096111,"",-98.64240681,Jim�nez,unspecified site,Tamaulipas
-611,Mexico,20.85461678,"",-99.8471243,Tolim�n,unspecified site,Quer�taro
-338,Mexico,21.49468585,"",-86.79325585,Isla Mujeres,Contoy (Isla),Quintana Roo
-337,Mexico,21.60319238,"",-87.10299805,Isla Mujeres,Catoche (Cabo),Quintana Roo
-517,Mexico,22.62798478,"",-101.71483144,Salinas,Salinas (Santa Mar�a Magdalena de las),San Luis Potos�
-515,Mexico,22.62798478,"",-101.71483144,Salinas,Pe��n Blanco (Salinas de Santa Mar�a del),San Luis Potos�
-508,Mexico,22.24550145,"",-100.6556446,Armadillo de los Infante,Armadillo (San Nicol�s),San Luis Potos�
-516,Mexico,21.81136879,"",-100.735626,Santa Mar�a del R�o,R�o (Santa Mar�a de),San Luis Potos�
-513,Mexico,23.64600316,"",-100.64397601,Matehuala,Matehuala,San Luis Potos�
-613,Mexico,26.00626005,"",-108.4776473,Sinaloa,unspecified site,Sinaloa
-547,Mexico,17.94878955,"",-94.91410687,Acayucan,Acayucan,Veracruz de Ignacio de la Llave
-556,Mexico,19.56961858,"",-96.50391174,Actopan,Joya (La),Veracruz de Ignacio de la Llave
-520,Mexico,21.66746564,"",-100.57313554,Tierra Nueva,Tierra Nueva,San Luis Potos�
-514,Mexico,22.40126712,"",-100.33321312,Cerritos,Mequities,San Luis Potos�
-521,Mexico,21.98245552,"",-99.01003828,Ciudad Valles,Valles,San Luis Potos�
-341,Mexico,22.87797255,"",-105.95823851,Rosario,Chiametla,Sinaloa
-512,Mexico,21.50001073,"",-98.95004948,Coxcatl�n,Huichihuaian,San Luis Potos�
-511,Mexico,23.13046246,"",-101.11593982,Charcas,Charcas,San Luis Potos�
-612,Mexico,22.58485542,"",-100.41138667,Guadalc�zar,unspecified site,San Luis Potos�
-88,Mexico,22.61854661,"",-100.39896952,Guadalc�zar,Guadalc�zar,San Luis Potos�
-522,Mexico,22.93380393,"",-101.09315824,Venado,Venado,San Luis Potos�
-518,Mexico,22.03800928,"",-100.73230541,Zaragoza,Sauceda (Hacienda de Santa Clara de la),San Luis Potos�
-509,Mexico,21.43803992,"",-98.87531356,Axtla de Terrazas,Axtla (Santa Catarina),San Luis Potos�
-523,Mexico,21.38665177,"",-98.99059711,Xilitla,Xilitla,San Luis Potos�
-580,Mexico,26.96667,"",-108.63333,�lamos,Cobre,Sonora
-525,Mexico,30.43764536,"",-110.0339143,Arizpe,Chinapa,Sonora
-524,Mexico,30.33489553,"",-110.16675848,Arizpe,Arizpe,Sonora
-528,Mexico,27.49446668,"",-109.9645789,Cajeme,Ostimuri,Sonora
-526,Mexico,28.17547382,"",-109.94845401,Cajeme,Cieneguilla,Sonora
-614,Mexico,29.69149843,"",-110.78361641,Carb�,unspecified site,Sonora
-529,Mexico,27.8413696,"",-109.36867222,Rosario,Rosario (Real de),Sonora
-579,Mexico,28.658,"",-108.74789,Sahuaripa,Mulatos,Sonora
-530,Mexico,17.66528225,"",-93.48008533,Huimanguillo,Chontallpa,Tabasco
-615,Mexico,17.93857358,"",-92.58952949,Macuspana,unspecified site,Tabasco
-647,Mexico,17.54844,"",-92.9531,Teapa,Teapa,Tabasco
-532,Mexico,22.39633207,"",-97.93723464,Altamira,Altamira,Tamaulipas
-653,Mexico,26.25345795,"",-98.84008985,Camargo,Azanza (Candelaria),Tamaulipas
-543,Mexico,22.25578653,"",-97.86889658,Tampico,Tampico,Tamaulipas
-539,Mexico,26.09257774,"",-98.27808814,Reynosa,Reynosa,Tamaulipas
-412,Mexico,26.09257774,"",-98.27808814,Reynosa,Feinosa,Tamaulipas
-589,Mexico,24.8485,"",-98.15951,San Fernando,San Fernando,Tamaulipas
-625,Mexico,23.74925,"",-99.10961,Victoria,unspecified site,Tamaulipas
-534,Mexico,19.25119632,"",-97.89417442,Ixtenco,Extenco (San Juan),Tlaxcala
-660,Mexico,19.53213811,"",-98.20841807,Atlangatepec,Atlancatepec,Tlaxcala
-659,Mexico,19.55565864,"",-98.21536321,Atlangatepec,Tzompantzinco,Tlaxcala
-658,Mexico,19.42057079,"",-98.1193295,Apizaco,Apizaco (colonial),Tlaxcala
-544,Mexico,19.42176696,"",-98.08973175,Apizaco,Texcalangus (Santa Mar�a),Tlaxcala
-533,Mexico,19.43589,"",-98.0663586,Apizaco,Cuetzcuapa (San Juan),Tlaxcala
-343,Mexico,19.31452149,"",-98.19279013,Chiautempan,Santa Ana,Tlaxcala
-535,Mexico,19.31202269,"",-97.9236184,Huamantla,Huamantla,Tlaxcala
-541,Mexico,19.47006577,"",-98.34835641,Hueyotlipan,San Fernando,Tlaxcala
-617,Mexico,19.42860564,"",-98.16841472,Yauhquemehcan,unspecified site,Tlaxcala
-342,Mexico,19.3726026,"",-98.17723351,Yauhquemehcan,Atlihuezian,Tlaxcala
-546,Mexico,19.21646703,"",-98.24001541,Zacatelco,Zacatelco (Santa In�s),Tlaxcala
-536,Mexico,19.23802288,"",-98.35086761,Nat�vitas,Ixtacuixtla (San Felipe),Tlaxcala
-537,Mexico,19.40423834,"",-98.04889466,Xaloztoc,Izalostoque (San Cosmo),Tlaxcala
-538,Mexico,19.2803074,"",-98.2557134,Tlaxcala,Metepec (San Diego),Tlaxcala
-344,Mexico,19.31730126,"",-98.23890287,Tlaxcala,Tlaxcala,Tlaxcala
-542,Mexico,19.37591084,"",-98.0911181,Tzompantepec,San Salvador,Tlaxcala
-531,Mexico,19.37843576,"",-98.10362086,Tzompantepec,Aguanhuatepec (San Andr�s),Tlaxcala
-657,Mexico,19.23484419,"",-98.26868425,San Jer�nimo Zacualpan,Cocomilco (Santa Cruz) ,Tlaxcala
-548,Mexico,18.77094058,"",-95.76078792,Alvarado,Alvarado,Veracruz de Ignacio de la Llave
-549,Mexico,19.37007133,"",-96.37663375,La Antigua,Antigua,Veracruz de Ignacio de la Llave
-363,Mexico,21.00505503,"",-89.22187776,Cacalch�n,Sahcab�,Yucat�n
-550,Mexico,19.45756708,"",-96.95832123,Coatepec,Coatepec,Veracruz de Ignacio de la Llave
-347,Mexico,18.13846881,"",-94.4354721,Coatzacoalcos,Coatzacoalcos,Veracruz de Ignacio de la Llave
-551,Mexico,18.89176257,"",-96.93192981,C�rdoba,C�rdoba,Veracruz de Ignacio de la Llave
-559,Mexico,18.36876727,"",-95.79523717,Cosamaloapan de Carpio,San Miguel,Veracruz de Ignacio de la Llave
-552,Mexico,18.36567877,"",-95.79550852,Cosamaloapan de Carpio,Cosamaloapan,Veracruz de Ignacio de la Llave
-352,Mexico,18.36567877,"",-95.79550852,Cosamaloapan de Carpio,R�o Hondo,Veracruz de Ignacio de la Llave
-359,Mexico,20.96571702,"",-89.62324008,M�rida,M�rida,Yucat�n
-346,Mexico,18.3048505,"",-95.84217156,Chacaltianguis,Chacaltianguiz,Veracruz de Ignacio de la Llave
-554,Mexico,19.05147602,"",-96.98442841,Ixhuatl�n del Caf�,Ixhuatlancillo el Monte (Santa Mar�a),Veracruz de Ignacio de la Llave
-565,Mexico,19.80480485,"",-97.30860477,Jalacingo,Xalacingo,Veracruz de Ignacio de la Llave
-555,Mexico,19.54062487,"",-96.92775856,Xalapa,Jalapa,Veracruz de Ignacio de la Llave
-553,Mexico,20.53587844,"",-98.48001985,Huayacocotla,Huayacocotla,Veracruz de Ignacio de la Llave
-348,Mexico,18.85037536,"",-97.10387056,Orizaba,Orizaba,Veracruz de Ignacio de la Llave
-349,Mexico,18.17707566,"",-96.03273435,Otatitl�n,Otatitl�n,Veracruz de Ignacio de la Llave
-350,Mexico,22.05579492,"",-98.17779479,P�nuco,P�nuco,Veracruz de Ignacio de la Llave
-351,Mexico,20.44836418,"",-97.3202716,Papantla,Papantla,Veracruz de Ignacio de la Llave
-640,Mexico,17.83640576,"",-95.84431714,Playa Vicente,Guascaltepeque,Veracruz de Ignacio de la Llave
-557,Mexico,19.92782684,"",-96.85443,Misantla,Misantla,Veracruz de Ignacio de la Llave
-558,Mexico,19.65394998,"",-96.87386962,Naolinco,Naolinco,Veracruz de Ignacio de la Llave
-646,Mexico,18.23175,"",-95.94988,Tlacojalpan,Tlaujalpan,Veracruz de Ignacio de la Llave
-562,Mexico,18.45039498,"",-95.21243115,San Andr�s Tuxtla,Tuxtla (San Andr�s),Veracruz de Ignacio de la Llave
-563,Mexico,18.46234502,"",-95.29965361,Santiago Tuxtla,Tuxtla (Santiago),Veracruz de Ignacio de la Llave
-561,Mexico,18.46234502,"",-95.29965361,Santiago Tuxtla,Tuxtla,Veracruz de Ignacio de la Llave
-58,Mexico,17.96295553,"",-94.88021728,Soconusco,Soconusco,Veracruz de Ignacio de la Llave
-634,Mexico,21.28233756,"",-98.30082726,Tantoyuca,unspecified site,Veracruz de Ignacio de la Llave
-560,Mexico,19.69422636,"",-97.11165306,Tatatila,Teutitl�n,Veracruz de Ignacio de la Llave
-59,Mexico,20.48030117,"",-97.01026637,Tecolutla,Tecolutla,Veracruz de Ignacio de la Llave
-353,Mexico,18.61264407,"",-95.65662346,Tlacotalpan,Tlacotalpan,Veracruz de Ignacio de la Llave
-618,Mexico,18.65266261,"",-96.12579432,Tlalixcoyan,unspecified site,Veracruz de Ignacio de la Llave
-355,Mexico,19.44388441,"",-96.40995556,Ursulo Galv�n,Zempoala,Veracruz de Ignacio de la Llave
-564,Mexico,19.21290097,"",-96.12886152,Veracruz,Ul�a (San Juan),Veracruz de Ignacio de la Llave
-354,Mexico,19.19980902,"",-96.13801865,Veracruz,Veracruz,Veracruz de Ignacio de la Llave
-345,Mexico,19.1775298,"",-96.22053101,Veracruz,Buenavista (Estancia),Veracruz de Ignacio de la Llave
-357,Mexico,21.29662803,"",-88.92528179,Dzilam Gonz�lez,Kanchunup,Yucat�n
-619,Mexico,20.74805532,"",-88.91936547,Kantunil,unspecified site,Yucat�n
-360,Mexico,21.10612368,"",-89.45145502,Mococh�,Mococh�,Yucat�n
-362,Mexico,21.13449399,"",-89.31652362,Motul,Quini,Yucat�n
-651,Mexico,21.20134,"",-89.27197,Telchac Pueblo,Telchac,Yucat�n
-361,Mexico,20.53644476,"",-88.85286786,Yaxcab�,Mopil�,Yucat�n
-366,Mexico,20.63699547,"",-88.92453615,Sotuta,Usil,Yucat�n
-365,Mexico,20.66588297,"",-88.93898093,Sotuta,Tibol�n,Yucat�n
-364,Mexico,20.59641657,"",-89.00616102,Sotuta,Sotuta,Yucat�n
-358,Mexico,21.15502674,"",-88.31368976,Sucil�,Kikil,Yucat�n
-356,Mexico,20.97667955,"",-89.4417359,Tixp�hual,Espegual,Yucat�n
-570,Mexico,21.77357592,"",-102.97320104,Huanusco,Huamusco (alias Huanusco),Zacatecas
-190,Mexico,21.77357592,"",-102.97320104,Huanusco,Guanusco,Zacatecas
-192,Mexico,21.63191048,"",-102.97986105,Jalpa,Jalpa,Zacatecas
-571,Mexico,22.64908737,"",-102.99070541,Jerez,Jerez,Zacatecas
-576,Mexico,23.47906188,"",-103.88819725,Chalchihuites,Tonal�n,Zacatecas
-568,Mexico,23.17601745,"",-102.86792467,Fresnillo,Fresnillo,Zacatecas
-620,Mexico,23.28343333,"",-102.66554945,Fresnillo,unspecified site,Zacatecas
-193,Mexico,21.4108112,"",-103.11792561,Juchipila,Juchipila,Zacatecas
-63,Mexico,24.63873424,"",-101.55567693,Mazapil,Mazapil,Zacatecas
-86,Mexico,23.99431663,"",-103.01987027,General Francisco R. Murgu�a,Nieves (Santa Elena del Real de),Zacatecas
-715,Mexico,19.61881,"",-98.919115,Acolman,Acolman (presa del rey),M�xico
-865,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Lu�s de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
-866,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Lu�s de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
-867,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Lu�s de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
-1,Mexico,21.87940193,"",-102.30040795,Aguascalientes,unspecified site,Aguascalientes
-566,Mexico,22.23799875,"",-102.08957309,Asientos,Asientos de Ibarra,Aguascalientes
-593,Mexico,22.00637062,"",-102.36211611,Jes�s Mar�a,Aguascalientes,Aguascalientes
-594,Mexico,27.3598233,"",-113.70412204,Muleg�,unspecified site,Baja California Sur
-649,Mexico,22.89406,"",-109.92628,Los Cabos,Cabo (Misi�n del),Baja California Sur
-590,Mexico,20.40555,"",-90.1515,Calkin�,San Francisco,Campeche
-2,Mexico,19.84283699,"",-90.5317609,Campeche,Campeche,Campeche
-595,Mexico,19.03381081,"",-89.92234624,Hopelch�n,unspecified site,Campeche
-17,Mexico,18.93480778,"",-103.96487919,Armer�a,Cuzcacuauhtla,Colima
-764,Mexico,19.638,Urban and rural areas above the presa del rey.,-98.911,Acolman,Acolman (region),M�xico
-814,Mexico,19.623479,"",-98.889914,Tepechpan,Hacienda de San Antonio,M�xico
-815,Mexico,19.620794,"",-98.923831,Acolman,Santa Catarina,M�xico
-816,Mexico,19.61187,"",-98.896971,Acolman,Chipiltepec (San Mateo),M�xico
-817,Mexico,19.61457752,"",-98.91613709,Acolman,Cuanalan,M�xico
-818,Mexico,19.616591,lat/lon is approximate,-98.890233,Acolman,Hacienda de los Pilares,M�xico
-819,Mexico,19.639803,"",-98.907781,Acolman,Calvario,M�xico
-820,Mexico,19.628189,"",-98.886726,Acolman,Tepetitlan (San Pedro),M�xico
-540,Mexico,19.3398264,"",-98.20667852,Tlaxcala,San Esteban,Tlaxcala
-573,Mexico,22.30410164,"",-103.5607199,Monte Escobedo,Monte Escobedo,Zacatecas
-316,Mexico,21.3611077,"",-102.84594702,Nochistl�n de Mej�a,Nochistl�n,Zacatecas
-574,Mexico,23.63515656,"",-103.64016329,Sombrerete,Sombrerete (Real del),Zacatecas
-636,Mexico,22.29877,"",-101.57483,Pinos,Sierra de Pinos (alias Real de Minas),Zacatecas
-575,Mexico,21.7821849,"",-103.30404335,Tlaltenango de S�nchez Rom�n,Tlaltenango,Zacatecas
-367,Mexico,21.8752488,"",-103.30929143,Tlaltenango de S�nchez Rom�n,Teocaltiche,Zacatecas
-577,Mexico,22.77075435,"",-103.56822056,Valpara�so,Valpara�so,Zacatecas
-572,Mexico,22.36913124,"",-101.7597106,Villa Hidalgo,Mecatabasco,Zacatecas
-624,Mexico,22.35524229,"",-103.02189645,Villanueva,unspecified site,Zacatecas
-567,Mexico,22.75542587,"",-102.58858156,Zacatecas,Bola�os,Zacatecas
-368,Mexico,22.77214549,"",-102.57569485,Zacatecas,Zacatecas,Zacatecas
-664,Mexico,,"",,Teotihuacan,Teotihuacan,M�xico
+584,Mexico,24.08717,,-110.31777,La Paz,Misiones,Baja California Sur
+72,Mexico,25.44565615,,-100.84704979,Arteaga,San Francisco,Coahuila de Zaragoza
+74,Mexico,26.87491474,,-100.60066355,Candela,Valladores,Coahuila de Zaragoza
+62,Mexico,26.84161023,,-100.66322628,Candela,Candela,Coahuila de Zaragoza
+65,Mexico,27.87778816,,-101.51484649,Múzquiz,Múzquiz,Coahuila de Zaragoza
+417,Mexico,17.30516389,,-97.48859768,San Miguel Achiutla,Achiutla,Oaxaca
+67,Mexico,25.56274483,,-101.40676909,General Cepeda,Patos (Hacienda),Coahuila de Zaragoza
+71,Mexico,27.00420638,,-101.7245732,Sacramento,Sacramento (Santa María del),Coahuila de Zaragoza
+15,Mexico,25.43370565,,-101.00038169,Saltillo,Saltillo,Coahuila de Zaragoza
+69,Mexico,25.26121368,,-101.14023338,Saltillo,Pesca Grande,Coahuila de Zaragoza
+66,Mexico,25.42009521,,-101.00036365,Saltillo,Nueva Tlaxcala (San Esteban de la),Coahuila de Zaragoza
+13,Mexico,27.060035,,-101.5487339,San Buenaventura,Buenaventura (Villa de),Coahuila de Zaragoza
+64,Mexico,26.90115032,,-101.41845774,Monclova,Monclova (Santiago de la),Coahuila de Zaragoza
+598,Mexico,27.28297471,,-102.04510179,Ocampo,unspecified site,Coahuila de Zaragoza
+14,Mexico,25.4406522,,-102.18291625,Parras,Parras (Santa María de las),Coahuila de Zaragoza
+73,Mexico,25.58223997,,-101.86824039,Parras,Santa Rosa (Valle de),Coahuila de Zaragoza
+70,Mexico,28.68021033,,-100.52856136,Piedras Negras,Río Grande (Presidio),Coahuila de Zaragoza
+20,Mexico,19.24368366,,-103.7309949,Colima,Colima,Colima
+19,Mexico,19.19784625,,-103.81154878,Coquimatlán,Motines,Colima
+599,Mexico,19.14101487,,-103.91352573,Coquimatlán,unspecified site,Colima
+18,Mexico,18.90896912,,-103.87488114,Tecomán,Epatlán,Colima
+638,Mexico,17.03904613,,-92.70294906,El Bosque,Tierras Altas,Chiapas
+52,Mexico,17.09434928,,-93.21072297,Copainalá,Copainalá,Chiapas
+5,Mexico,16.7077439,,-93.01406534,Chiapa de Corzo,Chiapa,Chiapas
+6,Mexico,17.1046685,,-92.27293888,Chilón,Chilón,Chiapas
+3,Mexico,17.04106072,,-92.18821481,Chilón,Bachajón,Chiapas
+53,Mexico,15.32026167,,-92.65847529,Escuintla,Escuintla,Chiapas
+592,Mexico,16.31841,,-95.24783,Santo Domingo Tehuantepec,Tehuantepec,Oaxaca
+319,Mexico,16.31606292,,-95.2354108,Santo Domingo Tehuantepec,Vacas (Hacienda),Oaxaca
+9,Mexico,17.1724057,,-92.68542501,Huitiupán,Huitupán,Chiapas
+467,Mexico,17.40821844,,-97.34665674,Santo Domingo Tlatayápam,Tlayacapa (Santo Domingo),Oaxaca
+55,Mexico,16.90796882,,-92.09623691,Ocosingo,Ocosingo,Chiapas
+331,Mexico,18.95512418,,-97.6577774,Quecholac,Quecholac,Puebla
+8,Mexico,16.20414844,,-92.44628632,Socoltenango,Copanaguastla,Chiapas
+630,Mexico,16.98399592,,-92.48254327,Pantelhó,unspecified site,Chiapas
+57,Mexico,17.35826631,,-92.63905799,Sabanilla,Moyos (San Francisco de los),Chiapas
+7,Mexico,16.73742509,,-92.63847258,San Cristóbal de las Casas,Ciudad Real (alias San Cristóbal de las Casas),Chiapas
+54,Mexico,16.7549918,,-92.66272152,San Cristóbal de las Casas,Hueyzacatlán,Chiapas
+449,Mexico,16.88324503,,-96.16051336,San Juan del Río,Río (San Juan del),Oaxaca
+464,Mexico,17.46603339,,-97.35582429,San Pedro Topiltepec,Tiltepec (Santa María),Oaxaca
+631,Mexico,17.09866729,,-93.39512958,Tecpatán,unspecified site,Chiapas
+60,Mexico,17.13684708,,-93.31127433,Tecpatán,Tecpatlán,Chiapas
+596,Mexico,16.48460858,,-92.47022531,Teopisca,unspecified site,Chiapas
+10,Mexico,17.30100931,,-92.42569826,Tila,Tila,Chiapas
+11,Mexico,16.75353494,,-93.11682465,Tuxtla Gutiérrez,Tuxtla Gutiérrez,Chiapas
+56,Mexico,16.33883452,,-92.56403138,Venustiano Carranza,Llanos (San Bartolomé de los),Chiapas
+61,Mexico,17.1712968,,-92.33041172,Yajalón,Yajalum,Chiapas
+12,Mexico,16.76047377,,-92.72236843,Zinacantán,Zinacantán,Chiapas
+4,Mexico,16.89241862,,-92.37096409,San Juan Cancuc,Cancuc,Chiapas
+318,Mexico,17.02990758,,-96.52024173,Teotitlán del Valle,Teotitlán del Valle,Oaxaca
+623,Mexico,26.96657028,,-105.50979815,Allende,unspecified site,Chihuahua
+597,Mexico,28.7959259,,-106.46720668,Chihuahua,unspecified site,Chihuahua
+372,Mexico,28.6355278,,-106.08942256,Chihuahua,Chihuahua,Chihuahua
+21,Mexico,19.48340362,,-99.18364559,Azcapotzalco,Azcapotzalco,Distrito Federal
+633,Mexico,27.3714387,,-107.52517171,Guachochi,unspecified site,Chihuahua
+588,Mexico,31.73995,,-106.51358,Juárez,San Felipe del Real,Chihuahua
+168,Mexico,19.36950147,,-99.16057394,Benito Juárez,Tenayuca,Distrito Federal
+80,Mexico,19.39999582,,-99.15002895,Benito Juárez,La Piedad,Distrito Federal
+76,Mexico,19.35062877,,-99.16198517,Coyoacán,Coyoacán,Distrito Federal
+75,Mexico,19.35482411,,-99.14642055,Coyoacán,Churubusco,Distrito Federal
+77,Mexico,19.35704596,,-99.29920154,Cuajimalpa de Morelos,Cuajimalpa (San Pedro),Distrito Federal
+662,Mexico,19.59928363,,-98.94098139,Tezoyuca,Tequiciztlan,México
+260,Mexico,19.18622092,,-99.42003708,Tianguistenco,Tilapa,México
+259,Mexico,19.18119557,,-99.46865635,Tianguistenco,Tianguistenco (Santiago),México
+270,Mexico,19.49644989,,-101.33204692,Acuitzio,Acuitzio (San Nicolás),Michoacán de Ocampo
+240,Mexico,19.41105164,,-99.06960454,Iztacalco,Pantitlán,Distrito Federal
+83,Mexico,19.38954465,,-99.12086452,Iztacalco,Santa Cruz,Distrito Federal
+79,Mexico,19.39590686,,-99.09809485,Iztacalco,Iztacalco (San Matías),Distrito Federal
+22,Mexico,19.3384361,,-99.10725302,Iztapalapa,Culhuacán,Distrito Federal
+246,Mexico,19.37426763,,-99.12169784,Iztapalapa,San Juanico,Distrito Federal
+245,Mexico,19.37426763,,-99.12169784,Iztapalapa,Nexticpac (San Juan Evangelista),Distrito Federal
+714,Mexico,19.6903635,,-98.8611374,Teotihuacán,Teotihuacan (San Juan),México
+241,Mexico,19.31673905,,-99.04547582,Iztapalapa,Pentecostés,Distrito Federal
+236,Mexico,19.35621297,,-99.11919775,Iztapalapa,Mexicaltzingo,Distrito Federal
+217,Mexico,19.37394365,,-99.11056963,Iztapalapa,Atlaxalpan (Santa María Magdalena),Distrito Federal
+211,Mexico,19.37869543,,-99.01996159,Iztapalapa,Acolhuacan,Distrito Federal
+226,Mexico,19.30575652,,-99.26033424,La Magdalena Contreras,Huejutla (San Luis),Distrito Federal
+26,Mexico,19.45148599,,-99.13725387,Cuauhtémoc,Tlatelolco,Distrito Federal
+23,Mexico,19.43264649,,-99.13325795,Cuauhtémoc,Mexico,Distrito Federal
+82,Mexico,19.42704275,,-99.14253171,Cuauhtémoc,Salto del Agua,Distrito Federal
+223,Mexico,19.17455555,,-98.99641706,Milpa Alta,Guiatengo (San Gregorio),Distrito Federal
+174,Mexico,19.18899945,,-99.00499853,Milpa Alta,Xahualtepec,Distrito Federal
+261,Mexico,19.30480201,,-99.05448432,Tláhuac,Tlalmaca (San Pedro),Distrito Federal
+78,Mexico,19.28816072,,-99.16642084,Tlalpan,Cuevas (San Agustín de las; alias Tlalpan),Distrito Federal
+27,Mexico,19.26316207,,-99.10280835,Xochimilco,Xochimilco,Distrito Federal
+215,Mexico,19.17619637,,-99.48893451,Atizapán,Atizapán (Santa Cruz de),México
+25,Mexico,19.45815224,,-99.18669937,Miguel Hidalgo,Tacuba,Distrito Federal
+24,Mexico,19.40259944,,-99.18781039,Miguel Hidalgo,Tacubaya,Distrito Federal
+216,Mexico,19.7981094,,-99.87478083,Atlacomulco,Atlacomulco,México
+457,Mexico,17.72570568,,-97.53499357,Teotongo,Teotongo,Oaxaca
+84,Mexico,24.02402836,,-104.67019843,Durango,Durango,Durango
+583,Mexico,25.83402,,-103.84866,Mapimí,Mapimí,Durango
+85,Mexico,26.39945937,,-105.39033834,Ocampo,Nieves (Santa María de las),Durango
+296,Mexico,18.30990486,,-103.04513979,Aquila,Parota (San José de la),Michoacán de Ocampo
+30,Mexico,20.52835387,,-100.8156396,Celaya,Celaya,Guanajuato
+97,Mexico,20.55638986,,-100.85477302,Celaya,Valles,Guanajuato
+90,Mexico,20.61597808,,-100.7940331,Celaya,Nuestra Señora de la Concepción,Guanajuato
+600,Mexico,24.91900715,,-104.91498942,Nuevo Ideal,unspecified site,Durango
+28,Mexico,20.03198403,,-100.72203102,Acámbaro,Acámbaro,Guanajuato
+569,Mexico,20.90449714,,-100.74580066,San Miguel de Allende,Guadiana,Guanajuato
+32,Mexico,20.91472711,,-100.74453276,San Miguel de Allende,Grande (San Miguel el),Guanajuato
+29,Mexico,20.54640292,,-100.68730243,Apaseo el Grande,Apaseo,Guanajuato
+96,Mexico,20.48224664,,-100.96175473,Cortazar,Valle,Guanajuato
+602,Mexico,20.90472218,,-101.01348434,Dolores Hidalgo Cuna de la Independencia Nacional,unspecified site,Guanajuato
+87,Mexico,21.15554836,,-100.93314412,Dolores Hidalgo Cuna de la Independencia Nacional,Dolores,Guanajuato
+373,Mexico,21.01722265,,-101.25731916,Guanajuato,Guanajuato,Guanajuato
+89,Mexico,21.01174597,,-101.26805166,Guanajuato,Minas (Real de),Guanajuato
+33,Mexico,20.67362592,,-101.34815569,Irapuato,Irapuato,Guanajuato
+637,Mexico,21.11019403,,-101.62620943,León,unspecified site,Guanajuato
+34,Mexico,21.11915789,,-101.68121907,León,León,Guanajuato
+468,Mexico,17.46043836,,-97.31971009,Santiago Tillo,Triyo (Santiago),Oaxaca
+420,Mexico,17.43929272,,-97.31610113,San Juan Sayultepec,Andua (San Andrés),Oaxaca
+377,Mexico,20.43057688,,-101.72289019,Pénjamo,Pénjamo,Guanajuato
+36,Mexico,20.56974186,,-101.197875,Salamanca,Salamanca,Guanajuato
+94,Mexico,20.21447677,,-100.87868988,Salvatierra,Salvatierra,Guanajuato
+37,Mexico,21.48025179,,-101.21426583,San Felipe,San Felipe,Guanajuato
+92,Mexico,21.0177697,,-101.85845485,San Francisco del Rincón,Rincón (San Francisco del),Guanajuato
+31,Mexico,21.58331535,,-100.46667445,San Luis de la Paz,Chamacuero,Guanajuato
+35,Mexico,21.2980429,,-100.51702761,San Luis de la Paz,Paz (San Luis de la),Guanajuato
+91,Mexico,21.22170722,,-100.49390832,San Luis de la Paz,Pozos (San Pedro de los),Guanajuato
+109,Mexico,18.24234671,,-100.53507187,Tlapehuala,Tlapehuala,Guerrero
+110,Mexico,18.00836191,,-102.17805877,La Unión de Isidoro Montes de Oca,Zacatula,Guerrero
+95,Mexico,21.10055059,,-100.15840559,Tierra Blanca,Tierra Blanca (Santo Tomás de),Guanajuato
+38,Mexico,20.39224939,,-101.19204601,Valle de Santiago,Santiago (Valle de),Guanajuato
+302,Mexico,18.47760605,,-100.97980079,Zirándaro,Zirándaro,Guerrero
+42,Mexico,18.74759452,,-99.67533284,Pilcaya,Pilcaya,Guerrero
+301,Mexico,20.21169734,,-101.128148,Yuriria,Yuriria,Guanajuato
+98,Mexico,16.87185194,,-99.89811391,Acapulco de Juárez,Acapulco,Guerrero
+99,Mexico,17.30933331,,-98.60473723,Atlamajalcingo del Monte,Atlamoxalsingo,Guerrero
+129,Mexico,20.06631431,,-98.80009746,Pachuca de Soto,Pitahayas (Hacienda),Hidalgo
+49,Mexico,20.12309441,,-98.73641404,Pachuca de Soto,Pachuca,Hidalgo
+148,Mexico,19.91560569,,-98.6700283,Zempoala,Zempoala,Hidalgo
+140,Mexico,19.92237513,,-98.57790108,Zempoala,Tochatlaco,Hidalgo
+51,Mexico,20.73750923,,-99.38226934,Zimapán,Zimapán,Hidalgo
+162,Mexico,17.14116183,,-100.06028622,Coyuca de Benítez,Citlaltomahua,Guerrero
+100,Mexico,17.00795376,,-100.08783772,Coyuca de Benítez,Coyuca,Guerrero
+43,Mexico,18.55705455,,-99.6036608,Taxco de Alarcón,Taxco,Guerrero
+104,Mexico,17.2215539,,-100.63007442,Técpan de Galeana,Tecpan,Guerrero
+308,Mexico,16.76186117,,-96.49052424,San Baltazar Chichicápam,Chichicapa,Oaxaca
+107,Mexico,17.56626836,,-99.39893371,Tixtla de Guerrero,Tixtla,Guerrero
+45,Mexico,17.12660521,,-98.23695329,Tlacoachistlahuaca,Xicayán,Guerrero
+135,Mexico,20.10281588,,-99.157255,Tetepango,Tetepango,Hidalgo
+44,Mexico,17.54682214,,-98.57669197,Tlapa de Comonfort,Tlapa,Guerrero
+101,Mexico,18.46538652,,-100.57868243,Cutzamala de Pinzón,Cutzamala,Guerrero
+182,Mexico,20.54834576,,-104.04766543,Ameca,Ameca,Jalisco
+39,Mexico,17.59931786,,-99.17698151,Chilapa de Álvarez,Chilapa,Guerrero
+102,Mexico,17.53332301,,-99.48336652,Chilpancingo de los Bravo,El Zanjón,Guerrero
+108,Mexico,17.79097692,,-99.9786676,General Heliodoro Castillo,Tlacotepec,Guerrero
+105,Mexico,17.98155841,,-100.07699297,General Heliodoro Castillo,Tetela del Río,Guerrero
+40,Mexico,18.34428477,,-99.53949452,Iguala de la Independencia,Iguala,Guerrero
+106,Mexico,18.3490407,,-99.47920343,Iguala de la Independencia,Tuxpam,Guerrero
+431,Mexico,16.74491785,,-98.47585936,Igualapa,Igualapa,Guerrero
+181,Mexico,20.0108714,,-103.60043243,Amacueca,Amacueca,Jalisco
+603,Mexico,17.66907571,,-99.91938152,Leonardo Bravo,unspecified site,Guerrero
+150,Mexico,20.29057946,,-103.18959439,Chapala,Chapala,Jalisco
+187,Mexico,20.08891644,,-103.86211252,Chiquilistlán,Chiquistlán,Jalisco
+188,Mexico,20.76527585,,-104.08100734,Etzatlán,Etzatlán,Jalisco
+604,Mexico,20.47904047,,-98.88703742,Metztitlán,unspecified site,Hidalgo
+123,Mexico,20.59668484,,-98.76336999,Metztitlán,Meztitlán,Hidalgo
+41,Mexico,17.77931047,,-98.74113329,Olinalá,Olinalá,Guerrero
+194,Mexico,21.35636473,,-101.93372131,Lagos de Moreno,Lagos,Jalisco
+118,Mexico,20.21587188,,-98.73141712,Mineral del Chico,El Chico,Hidalgo
+379,Mexico,18.3609825,,-100.66839484,Pungarabato,Pungarabato,Guerrero
+177,Mexico,18.28237549,,-100.61228241,Pungarabato,Tanguanguato,Guerrero
+199,Mexico,19.71948982,,-104.60239546,Villa Purificación,Purificación,Jalisco
+200,Mexico,20.37277314,,-103.95778492,San Martín Hidalgo,Río Grande,Jalisco
+425,Mexico,17.74098526,,-97.14332107,San Miguel Huautla,Cuatla,Oaxaca
+645,Mexico,20.19507,,-98.95305,Actopan,Chicahuasco,Hidalgo
+113,Mexico,20.26836922,,-98.94337669,Actopan,Actopan,Hidalgo
+46,Mexico,19.71005399,,-98.45029669,Apan,Apan,Hidalgo
+114,Mexico,20.05978921,,-99.22003457,Atitalaquia,Atitalaquia,Hidalgo
+115,Mexico,20.28669863,,-98.6703044,Atotonilco el Grande,Atotonilco,Hidalgo
+601,Mexico,19.35551042,,-99.64629498,Toluca,unspecified site,México
+244,Mexico,19.37086752,,-99.58223566,Toluca,San Pablo,México
+243,Mexico,19.3727493,,-99.58025427,Toluca,San Andrés,México
+173,Mexico,19.29284944,,-99.65422246,Toluca,Toluca (San José),México
+119,Mexico,20.01781946,,-98.63586352,Epazoyucan,Epasoyucan (San Andrés),Hidalgo
+112,Mexico,20.5969873,,-98.06834455,Huehuetla,Achiotepec (San Andrés),Hidalgo
+47,Mexico,20.46060499,,-98.0766778,Huehuetla,Huehutla,Hidalgo
+581,Mexico,21.13333,,-98.41667,Huejutla de Reyes,Huejutla,Hidalgo
+121,Mexico,20.37530361,,-99.65089192,Huichapan,Huichapan,Hidalgo
+130,Mexico,20.53976587,,-99.20197959,Ixmiquilpan,Remedios (Los),Hidalgo
+48,Mexico,20.48279773,,-99.2194911,Ixmiquilpan,Ixmiquilpan,Hidalgo
+122,Mexico,21.00555556,,-99.19032408,Jacala de Ledezma,Jacala,Hidalgo
+138,Mexico,19.8423003,,-98.97947352,Tizayuca,Tizayuca,Hidalgo
+126,Mexico,20.14031644,,-98.67197556,Mineral del Monte,Monte (Real de),Hidalgo
+125,Mexico,20.23003004,,-99.21449349,Mixquiahuala de Juárez,Mixquiahuala,Hidalgo
+147,Mexico,20.89581372,,-98.80574571,Molango de Escamilla,Yeytecomatl,Hidalgo
+111,Mexico,20.96530168,,-98.7811382,Molango de Escamilla,Acayucan (San Martín de),Hidalgo
+156,Mexico,20.61627205,,-102.90961285,Tepatitlán de Morelos,Tecomatlán,Jalisco
+117,Mexico,20.05004423,,-98.71667579,Mineral de la Reforma,Chavarria (Hacienda),Hidalgo
+116,Mexico,20.08332712,,-98.73335001,Mineral de la Reforma,Cadena (Hacienda),Hidalgo
+137,Mexico,20.15839623,,-98.80141481,San Agustín Tlaxiaca,Tilguatla,Hidalgo
+131,Mexico,20.11531504,,-98.88642107,San Agustín Tlaxiaca,San Agustín,Hidalgo
+141,Mexico,20.40030375,,-98.20140574,San Bartolo Tutotepec,Tototepec,Hidalgo
+139,Mexico,20.50282514,,-98.09640052,San Bartolo Tutotepec,Tlachicomula (San Andrés),Hidalgo
+204,Mexico,19.94141835,,-105.24908732,Tomatlán,Tomatlán,Jalisco
+205,Mexico,20.62417365,,-103.24153811,Tonalá,Tonalá (Santa María),Jalisco
+206,Mexico,19.69754169,,-103.98322265,Tuxcacuesco,Tuscacuesco,Jalisco
+207,Mexico,19.55450074,,-103.37598388,Tuxpan,Tuxpan,Jalisco
+133,Mexico,19.96754275,,-98.51835974,Singuilucan,Singuilucan,Hidalgo
+128,Mexico,20.55000567,,-99.51667961,Tecozautla,Palmar (Hacienda),Hidalgo
+50,Mexico,20.53390594,,-99.63338866,Tecozautla,Tecozautla (Santiago),Hidalgo
+142,Mexico,20.33808712,,-98.22585777,Tenango de Doria,Tutotepec,Hidalgo
+134,Mexico,20.33808712,,-98.22585777,Tenango de Doria,Tenango,Hidalgo
+369,Mexico,19.78504986,,-98.55224323,Tepeapulco,Tepeapulco,Hidalgo
+120,Mexico,19.75982496,,-98.56450706,Tepeapulco,Guadalupe (San Pedro),Hidalgo
+132,Mexico,19.88282025,,-99.25613583,Tepeji del Río de Ocampo,Santiago,Hidalgo
+183,Mexico,19.78201606,,-103.71123863,San Gabriel,Apango,Jalisco
+136,Mexico,20.19309019,,-99.27310357,Tezontepec de Aldama,Tezontepec,Hidalgo
+656,Mexico,20.07987076,,-99.38578161,Tula de Allende,Axuchitlán (Santa María),Hidalgo
+655,Mexico,20.06022,,-99.32175,Tula de Allende,Tultengo (Santiago),Hidalgo
+146,Mexico,20.05895571,,-99.33587034,Tula de Allende,Xipacoya (San Marcos),Hidalgo
+144,Mexico,20.04266084,,-99.3519776,Tula de Allende,Tula (San José),Hidalgo
+143,Mexico,20.05478924,,-99.34198157,Tula de Allende,Tula,Hidalgo
+124,Mexico,20.10256458,,-99.39614948,Tula de Allende,Michimaloya (San Juan Bautista),Hidalgo
+145,Mexico,20.08201181,,-98.36890552,Tulancingo de Bravo,Tulancingo,Hidalgo
+210,Mexico,19.95449079,,-99.84340014,Acambay de Ruíz Castañeda,Acambay,México
+864,Mexico,23.6897,,-100.8875,Real de Catorce,Real de Catorce,San Luís Potosí
+180,Mexico,20.70083755,,-103.97655747,Ahualulco de Mercado,Agualuco,Jalisco
+185,Mexico,19.77142991,,-104.36989144,Autlán de Navarro,Autlán,Jalisco
+376,Mexico,20.27780078,,-102.55012855,La Barca,Barca (La),Jalisco
+186,Mexico,21.83190072,,-103.78015986,Bolaños,Bolaños (Real de),Jalisco
+158,Mexico,19.70338489,,-103.46293077,Zapotlán el Grande,Zapotlán,Jalisco
+151,Mexico,20.36585387,,-103.82266049,Cocula,Cocula (San Miguel),Jalisco
+405,Mexico,22.11466975,,-103.26681913,Colotlán,Cuagolotlán (San Luis),Jalisco
+189,Mexico,20.57667515,,-104.3810176,Guachinango,Guachinango,Jalisco
+152,Mexico,20.67730516,,-103.35568889,Guadalajara,Guadalajara,Jalisco
+191,Mexico,21.16887176,,-102.46568649,Jalostotitlán,Jalostotitlán,Jalisco
+235,Mexico,19.21899805,,-98.83558043,Cocotitlán,Metla (San Andrés),México
+222,Mexico,19.23257419,,-98.86558928,Cocotitlán,Cocotitlán (San José),México
+149,Mexico,19.83312379,,-104.08263528,El Limón,Amula,Jalisco
+587,Mexico,19.58695,,-102.9097,Santa María del Oro,Oro (Santa María del),Jalisco
+195,Mexico,20.525844,,-104.78685849,Mascota,Mascota,Jalisco
+650,Mexico,19.9754,,-99.17406,Apaxco,Apasco (San Francisco),México
+644,Mexico,21.0515,,-104.48359,Ahuacatlán,Ahuacatlán,Nayarit
+179,Mexico,21.2105594,,-102.8276129,Mexticacán,Acatzinco (Acasico),Jalisco
+394,Mexico,19.805047,,-100.17451725,Tlalpujahua,Tlalpujahua,Michoacán de Ocampo
+196,Mexico,20.35140756,,-102.77208043,Ocotlán,Ocotlán,Jalisco
+198,Mexico,20.38168556,,-102.92819771,Poncitlán,Poncitlán,Jalisco
+201,Mexico,21.09967267,,-103.4335127,San Cristóbal de la Barranca,San Luis,Jalisco
+154,Mexico,19.88337626,,-103.600996,Sayula,Sayula,Jalisco
+605,Mexico,20.57805569,,-103.61858245,Tala,unspecified site,Jalisco
+591,Mexico,20.38063987,,-104.82296544,Talpa de Allende,Talpa,Jalisco
+202,Mexico,19.6761665,,-103.25403268,Tamazula de Gordiano,Tamazula,Jalisco
+184,Mexico,19.92756433,,-103.74235075,Tapalpa,Atasco,Jalisco
+208,Mexico,20.22835936,,-103.56987671,Zacoalco de Torres,Zacoalco,Jalisco
+209,Mexico,20.72669258,,-103.39123446,Zapopan,Zapopan,Jalisco
+157,Mexico,19.54782963,,-103.81349454,Zapotitlán de Vadillo,Zapotitlán,Jalisco
+203,Mexico,20.4239304,,-103.02844838,Zapotlán del Rey,Tecualtichillo,Jalisco
+663,Mexico,19.61457752,,-98.91613709,Acolman,Cuanalan,México
+661,Mexico,19.63215568,,-98.91299637,Acolman,Acolman,México
+169,Mexico,19.61417985,,-98.93523545,Acolman,Tepechpan,México
+212,Mexico,20.09892508,,-99.82727917,Aculco,Aculco (San Jeónimo),México
+213,Mexico,18.86453803,,-99.89394483,Almoloya de Alquisiras,Almoloya (San Andrés),México
+220,Mexico,19.15539023,,-98.76363436,Amecameca,Chalma,México
+159,Mexico,19.12842025,,-98.7630857,Amecameca,Amecameca,México
+214,Mexico,19.55895021,,-98.91281025,Atenco,Atenco,México
+247,Mexico,19.66755642,,-99.1794875,Cuautitlán,San Martín,México
+164,Mexico,19.66755642,,-99.1794875,Cuautitlán,Cuautitlán,México
+264,Mexico,19.24038586,,-98.84613625,Chalco,Tlapina,México
+239,Mexico,19.21733135,,-98.90697082,Chalco,Neztipan,México
+219,Mexico,19.20983169,,-98.92974906,Chalco,Ayotzingo (Santa Catarina),México
+160,Mexico,19.26535425,,-98.89781,Chalco,Chalco,México
+641,Mexico,19.90707,,-99.07784,Hueypoxtla,Hueypoxtla,México
+161,Mexico,19.4381259,,-98.95448214,Chimalhuacán,Chimalhuacán,México
+622,Mexico,19.49828005,,-99.04413125,Ecatepec de Morelos,unspecified site,México
+165,Mexico,19.61033796,,-99.06031363,Ecatepec de Morelos,Ecatepec,México
+267,Mexico,19.83477757,,-99.20365079,Huehuetoca,Tututepeque,México
+225,Mexico,19.83477757,,-99.20365079,Huehuetoca,Huehuetoca,México
+227,Mexico,19.36173842,,-99.35115167,Huixquilucan,Huixquilucan,México
+263,Mexico,19.30343817,,-98.91224886,Ixtapaluca,Tlapacoya,México
+218,Mexico,19.31621528,,-98.92752699,Ixtapaluca,Ayotla,México
+233,Mexico,18.78401835,,-99.71170908,Ixtapan de la Sal,Malinaltengo,México
+228,Mexico,19.5695083,,-99.76727066,Ixtlahuaca,Ixtlahuacan,México
+639,Mexico,19.17963,,-99.41399,Xalatlaco,Xalatlaco,México
+229,Mexico,19.95477218,,-99.53476658,Jilotepec,Jilotepec,México
+423,Mexico,16.90885096,,-96.72003822,San Bartolo Coyotepec,Chicomesuchil (San Juan Bautista),Oaxaca
+230,Mexico,19.28535019,,-99.51226568,Lerma,Lerma (Santa Clara),México
+232,Mexico,18.94897705,,-99.49504521,Malinalco,Malinalco,México
+444,Mexico,17.80487132,,-97.54082991,San Pedro Nopala,Nopala,Oaxaca
+234,Mexico,19.25174363,,-99.6050494,Metepec,Metepec (San Diego),México
+256,Mexico,19.7447797,,-99.18142562,Teoloyucan,Teoloyucan (San Antonio),México
+257,Mexico,19.69036354,,-98.8611374,Teotihuacán,Teotihuacan (San Juan),México
+170,Mexico,19.71672296,,-99.22393103,Tepotzotlán,Tepotzotlán,México
+428,Mexico,17.8054204,,-97.77638638,Heroica Ciudad de Huajuapan de León,Huajuapan,Oaxaca
+370,Mexico,19.91004431,,-99.14504001,Tequixquiac,Tequixquiac,México
+238,Mexico,19.47590306,,-99.23809761,Naucalpan de Juárez,Naucalpan (San Bartolomé),México
+582,Mexico,19.72389,,-99.05278,Nextlalpan,Jaltocan (Santa Marta),México
+402,Mexico,18.8123245,,-98.95503073,Cuautla,Cuautla de Amilpas (Coautla),Morelos
+403,Mexico,18.91925767,,-99.23448801,Cuernavaca,Cuernavaca,Morelos
+127,Mexico,19.78255181,,-98.71280861,Nopaltepec,Nopaltepec,México
+294,Mexico,19.41259448,,-101.60536091,Salvador Escalante,Opopeo (Santa María),Michoacán de Ocampo
+279,Mexico,19.40534269,,-101.63871044,Salvador Escalante,Cobres (Santa Clara de los),Michoacán de Ocampo
+389,Mexico,19.23563027,,-101.4570499,Tacámbaro,Tacámbaro (San Jerónimo),Michoacán de Ocampo
+103,Mexico,17.61657957,,-98.51445984,Alpoyeca,Ixcateopan,Guerrero
+390,Mexico,19.73757736,,-102.07953815,Cherán,Tanaco,Michoacán de Ocampo
+166,Mexico,19.69755317,,-98.7550296,Otumba,Otumba,México
+258,Mexico,19.42537545,,-99.55504037,Otzolotepec,Tetitlán,México
+172,Mexico,19.20507593,,-98.80280595,Tlalmanalco,Tlalmanalco,México
+262,Mexico,19.53729129,,-99.19503533,Tlalnepantla de Baz,Tlalnepantla,México
+163,Mexico,18.64374676,,-100.21894161,Tlatlaya,Coatepec,México
+395,Mexico,20.00337741,,-101.41454692,Morelos,Uango,Michoacán de Ocampo
+385,Mexico,19.79366533,,-101.17731215,Tarímbaro,San Miguel,Michoacán de Ocampo
+393,Mexico,19.19006755,,-102.84484871,Tepalcatepec,Tepalcatepec,Michoacán de Ocampo
+266,Mexico,19.6456164,,-99.16975886,Tultitlán,Tultitlán,México
+81,Mexico,19.66869753,,-99.10197576,Tultitlán,Salinas (San Pablo de las),México
+231,Mexico,19.36926603,,-100.17255319,Villa de Allende,Malacatepec,México
+280,Mexico,19.58341926,,-101.63119516,Tzintzuntzan,Cucuchio,Michoacán de Ocampo
+399,Mexico,19.38342832,,-102.07620394,Uruapan,Xicalán (San Francisco),Michoacán de Ocampo
+382,Mexico,19.44257933,,-102.07654206,Uruapan,San Gregorio,Michoacán de Ocampo
+300,Mexico,19.42672912,,-102.061787,Uruapan,Uruapan (San Francisco),Michoacán de Ocampo
+290,Mexico,19.37481763,,-102.07898175,Uruapan,Juchitato,Michoacán de Ocampo
+586,Mexico,18.7189,,-99.77635,Zacualpan,Zacualpan,México
+268,Mexico,19.2839607,,-99.73366158,Zinacantepec,Zinacantepec,México
+269,Mexico,19.79754946,,-99.09948347,Zumpango,Zumpango de la Laguna,México
+404,Mexico,18.88232002,,-99.17614295,Jiutepec,Xiuhtepeque,Morelos
+237,Mexico,19.53332214,,-98.81663842,Texcoco,Molino de Flores,México
+171,Mexico,19.50618234,,-98.88225305,Texcoco,Texcoco,México
+251,Mexico,18.85786941,,-99.96561582,Sultepec,Sultepec,México
+443,Mexico,17.26326703,,-96.58775236,Santa Catarina Ixtepeji,Nesicho (San Pedro),Oaxaca
+432,Mexico,17.2665567,,-96.56246503,Santa Catarina Ixtepeji,Ixtepeji (Santa Catarina),Oaxaca
+242,Mexico,19.77424809,,-98.98197344,Tecámac,Reyes (Los),México
+252,Mexico,19.20230623,,-98.87058658,Temamatla,Temamatla,México
+253,Mexico,19.9153238,,-100.00394994,Temascalcingo,Temascaltzingo (San Miguel),México
+167,Mexico,19.04396983,,-100.04172847,Temascaltepec,Temascaltepec,México
+254,Mexico,19.46923432,,-99.59365959,Temoaya,Temoaya,México
+250,Mexico,19.0109517,,-99.54142818,Tenancingo,Suchiaca,México
+248,Mexico,19.01261826,,-99.55281731,Tenancingo,Sepaiatitla,México
+221,Mexico,18.99484134,,-99.57031764,Tenancingo,Coapatongo,México
+315,Mexico,16.86606485,,-96.96609307,San Bernardo Mixtepec,Mixtepec,Oaxaca
+255,Mexico,19.10314087,,-99.58921751,Tenango del Valle,Tenango del Valle,México
+249,Mexico,19.07026307,,-99.55624604,Tenango del Valle,Sictepec,México
+224,Mexico,19.128941,,-99.608256,Tenango del Valle,Huayocota,México
+273,Mexico,20.15030799,,-101.70871433,Angamacutiro,Angamacútiro,Michoacán de Ocampo
+642,Mexico,19.03533443,,-102.38596301,Apatzingán,Tierra Caliente,Michoacán de Ocampo
+378,Mexico,19.01660455,,-102.48327702,Apatzingán,Pizándaro,Michoacán de Ocampo
+274,Mexico,19.08869496,,-102.35122897,Apatzingán,Apatzingán,Michoacán de Ocampo
+272,Mexico,19.16093851,,-102.53954634,Buenavista,Amatlán (Santa Ana),Michoacán de Ocampo
+16,Mexico,18.69675788,,-103.66237356,Coahuayana,Alimanzi,Michoacán de Ocampo
+292,Mexico,19.79701857,,-102.22148568,Charapan,Ocumicho (San Pedro),Michoacán de Ocampo
+392,Mexico,19.69174933,,-100.55367293,Hidalgo,Taximaroa,Michoacán de Ocampo
+396,Mexico,19.89920997,,-101.50481932,Huaniqueo,Uaniqueo,Michoacán de Ocampo
+388,Mexico,18.5109741,,-101.10673755,Huetamo,Santiago,Michoacán de Ocampo
+386,Mexico,18.53700235,,-100.86073698,Huetamo,San Nicolás,Michoacán de Ocampo
+291,Mexico,18.60601872,,-100.90796708,Huetamo,Nimeo,Michoacán de Ocampo
+284,Mexico,18.6270482,,-100.89730321,Huetamo,Huetamo,Michoacán de Ocampo
+283,Mexico,18.6270482,,-100.89730321,Huetamo,Güimeo,Michoacán de Ocampo
+175,Mexico,18.6340238,,-100.89951129,Huetamo,Cuitzeo,Michoacán de Ocampo
+286,Mexico,19.78782529,,-100.9686968,Indaparapeo,Indaparapeo,Michoacán de Ocampo
+429,Mexico,16.02583239,,-95.66550927,San Pedro Huamelula,Huamelula,Oaxaca
+287,Mexico,19.95698651,,-102.30372935,Jacona,Jacona,Michoacán de Ocampo
+289,Mexico,19.99420254,,-102.71762819,Jiquilpan,Jiquilpan,Michoacán de Ocampo
+281,Mexico,19.42037264,,-101.21479725,Madero,Etícuaro (San Francisco),Michoacán de Ocampo
+375,Mexico,19.89338175,,-100.44285023,Maravatío,Maravatío,Michoacán de Ocampo
+387,Mexico,19.66924921,,-101.19257511,Morelia,Santa María,Michoacán de Ocampo
+288,Mexico,19.65091686,,-101.15118532,Morelia,Jesús del Monte,Michoacán de Ocampo
+278,Mexico,19.52616894,,-101.36263565,Morelia,Coapa (Hacienda),Michoacán de Ocampo
+176,Mexico,19.70452525,,-101.18507503,Morelia,Morelia (alias Valladolid),Michoacán de Ocampo
+606,Mexico,19.20658922,,-101.8813938,Nuevo Urecho,unspecified site,Michoacán de Ocampo
+398,Mexico,19.16563376,,-101.86816943,Nuevo Urecho,Urecho (San Antonio),Michoacán de Ocampo
+285,Mexico,20.25586195,,-101.94816841,Numarán,Huamarán,Michoacán de Ocampo
+397,Mexico,19.68146897,,-102.11231648,Paracho,Urapicho,Michoacán de Ocampo
+295,Mexico,19.64200039,,-102.04789367,Paracho,Paracho (San Pedro),Michoacán de Ocampo
+293,Mexico,19.65535911,,-102.13092791,Paracho,Nurio,Michoacán de Ocampo
+276,Mexico,19.70007936,,-102.01592563,Paracho,Cheranachegua,Michoacán de Ocampo
+275,Mexico,19.66285896,,-102.02398127,Paracho,Aranza (San Jerónimo),Michoacán de Ocampo
+271,Mexico,19.66591427,,-102.07342675,Paracho,Aguira,Michoacán de Ocampo
+178,Mexico,19.51647818,,-101.61091681,Pátzcuaro,Pátzcuaro,Michoacán de Ocampo
+297,Mexico,19.51755402,,-102.41457158,Peribán,Peribán,Michoacán de Ocampo
+298,Mexico,20.33918924,,-102.02511296,La Piedad,Piedad (La),Michoacán de Ocampo
+648,Mexico,20.13658977,,-101.46056776,Puruándiro,Armadillo (Santa Isabel de),Michoacán de Ocampo
+374,Mexico,20.08809089,,-101.51593618,Puruándiro,Puruándiro,Michoacán de Ocampo
+381,Mexico,19.80977434,,-100.89425297,Queréndaro,Queréndaro,Michoacán de Ocampo
+303,Mexico,22.49269948,,-105.36104387,Acaponeta,Acaponeta,Nayarit
+384,Mexico,18.38070372,,-100.67200607,San Lucas,San Jerónimo,Michoacán de Ocampo
+383,Mexico,18.58898979,,-100.78757336,San Lucas,San Lucas,Michoacán de Ocampo
+380,Mexico,18.58902628,,-100.78756443,San Lucas,Purechucho,Michoacán de Ocampo
+153,Mexico,21.9213547,,-104.51042769,Del Nayar,Huaynamota,Nayarit
+407,Mexico,21.53995952,,-105.28576008,San Blas,San Blas,Nayarit
+197,Mexico,21.33414018,,-104.58852113,Santa María del Oro,Oro (Santa María del),Nayarit
+408,Mexico,21.75136074,,-105.28127646,Santiago Ixcuintla,Santiago,Nayarit
+155,Mexico,21.80432106,,-105.34584426,Santiago Ixcuintla,Centicpac (alias Sentispac),Nayarit
+340,Mexico,22.38271941,,-105.41739236,Tecuala,Aztatlán (Nueva Galicia),Nayarit
+607,Mexico,21.80313838,,-104.8399737,Tepic,unspecified site,Nayarit
+304,Mexico,21.51663107,,-104.894362,Tepic,Tepic,Nayarit
+391,Mexico,19.88892972,,-102.20539969,Tangancícuaro,Tanganzícuaro,Michoacán de Ocampo
+282,Mexico,19.89218271,,-102.12916704,Tangancícuaro,Etúcuaro (Hacienda),Michoacán de Ocampo
+277,Mexico,19.90032039,,-101.33176598,Chucándiro,Chucándiro,Michoacán de Ocampo
+299,Mexico,19.97059465,,-102.05595097,Tlazazalca,Tlazazalca,Michoacán de Ocampo
+608,Mexico,25.62114127,,-99.80702808,Cadereyta Jiménez,unspecified site,Nuevo León
+410,Mexico,25.59065326,,-100.00146174,Cadereyta Jiménez,Cadereyta (Villa),Nuevo León
+411,Mexico,26.09007529,,-99.6153443,Cerralvo,Cerralvo,Nuevo León
+313,Mexico,16.23716317,,-97.29248629,Santa Catarina Juquila,Juquila,Oaxaca
+400,Mexico,19.98559485,,-102.28345832,Zamora,Zamora,Michoacán de Ocampo
+401,Mexico,19.43812266,,-100.35896138,Zitácuaro,Zitácuaro,Michoacán de Ocampo
+265,Mexico,18.95620648,,-98.98142106,Tlayacapan,Tlayacapan,Morelos
+450,Mexico,17.38905116,,-97.22832127,Magdalena Zahuatlán,Santa María Magdalena,Oaxaca
+406,Mexico,21.10387048,,-104.43628779,Jala,Jala,Nayarit
+415,Mexico,25.68650399,,-100.19260271,Guadalupe,Potosí (Hacienda),Nuevo León
+635,Mexico,16.31262041,,-95.71608196,Asunción Tlacolulita,unspecified site,Oaxaca
+413,Mexico,25.83493034,,-99.76769305,Doctor González,Lampazos,Nuevo León
+409,Mexico,24.94110256,,-99.35805645,Linares,Boca de Leones (Real de San Pedro de Boca de),Nuevo León
+305,Mexico,25.67147771,,-100.30868984,Monterrey,Monterrey,Nuevo León
+414,Mexico,25.78508392,,-100.05118474,Pesquería,Pesquería,Nuevo León
+416,Mexico,25.96285806,,-100.29203598,Salinas Victoria,Salinas (Real de las),Nuevo León
+68,Mexico,25.96285806,,-100.29203598,Salinas Victoria,Salinas,Nuevo León
+447,Mexico,17.84236981,,-96.88081681,Concepción Pápalo,Pápalo,Oaxaca
+460,Mexico,16.39993809,,-95.60355258,Magdalena Tequisistlán,Tequixitlán,Oaxaca
+451,Mexico,17.4646078,,-97.28220333,San Andrés Sinaxtla,Sinastla (San Andrés),Oaxaca
+418,Mexico,17.74431413,,-97.49916507,San Antonio Acutla,Acutla,Oaxaca
+312,Mexico,16.4340984,,-95.01964594,Juchitán de Zaragoza,Juchitán,Oaxaca
+628,Mexico,17.72463936,,-98.10914401,Mariscala de Juárez,unspecified site,Oaxaca
+629,Mexico,18.06987779,,-96.95466653,Mazatlán Villa de Flores,unspecified site,Oaxaca
+439,Mexico,17.13966288,,-96.10024196,Mixistlán de la Reforma,Mezitlán,Oaxaca
+441,Mexico,16.60853913,,-95.97856333,Nejapa de Madero,Nejapa (San Bartolomé),Oaxaca
+440,Mexico,16.60853913,,-95.97856333,Nejapa de Madero,Nexapa,Oaxaca
+306,Mexico,17.06851577,,-96.72025133,Oaxaca de Juárez,Antequera (alias Oaxaca),Oaxaca
+307,Mexico,17.06601561,,-97.67749965,San Esteban Atatlahuca,Atlatlauca,Oaxaca
+471,Mexico,17.87990221,,-96.52802973,San Felipe Usila,Usila,Oaxaca
+436,Mexico,17.87986804,,-96.52802426,San Felipe Usila,Juxtepec,Oaxaca
+435,Mexico,16.89657347,,-97.30720465,San Francisco Cahuacuá,Junco (San Francisco),Oaxaca
+469,Mexico,17.39659409,,-96.11829823,San Ildefonso Villa Alta,Tuighu (San Juan),Oaxaca
+320,Mexico,17.33822415,,-96.15162653,San Ildefonso Villa Alta,Villa Alta,Oaxaca
+445,Mexico,17.65598645,,-98.10500908,San Jorge Nuchita,Nuchita,Oaxaca
+424,Mexico,17.72431546,,-97.3238765,San Juan Bautista Coixtlahuaca,Coixtlahuaca,Oaxaca
+310,Mexico,17.79931301,,-96.95997505,San Juan Bautista Cuicatlán,Cucallan,Oaxaca
+462,Mexico,18.08679979,,-96.12412923,San Juan Bautista Tuxtepec,Textepeque (Santa Clara),Oaxaca
+454,Mexico,17.35711131,,-97.56888508,Santa Cruz Tayata,Tayata (Santa Cruz),Oaxaca
+438,Mexico,17.30544385,,-97.82999905,San Juan Mixtepec,Mixtepec (San Juan),Oaxaca
+458,Mexico,17.55127243,,-97.42527162,San Juan Teposcolula,Teposcolula,Oaxaca
+422,Mexico,17.30683623,,-96.44635684,Capulálpam de Méndez,Calpulalpa (San Mateo),Oaxaca
+442,Mexico,17.65653695,,-98.41696685,San Mateo Nejápam,Nejapa (Santiago),Oaxaca
+426,Mexico,16.84523228,,-97.20998702,Villa Sola de Vega,Elotepec,Oaxaca
+430,Mexico,17.27711597,,-96.88275515,San Pablo Huitzo,Huizo,Oaxaca
+419,Mexico,17.03827902,,-96.27080097,San Pablo Villa de Mitla,Albarradas,Oaxaca
+437,Mexico,15.98356695,,-97.08303755,San Pedro Mixtepec,Mixtepec (San Pedro),Oaxaca
+459,Mexico,16.37520986,,-95.2599326,Santa María Mixtequilla,Tequila,Oaxaca
+317,Mexico,16.13078003,,-96.37024247,Santa María Ozolotepec,Ocelotepeque,Oaxaca
+314,Mexico,16.18744761,,-96.61802838,Santa Lucía Miahuatlán,Miahuatlán,Oaxaca
+626,Mexico,17.26703,,-97.68572,Heroica Ciudad de Tlaxiaco,unspecified site,Oaxaca
+466,Mexico,17.27020968,,-97.67944188,Heroica Ciudad de Tlaxiaco,Tlaxiaco,Oaxaca
+474,Mexico,17.56602838,,-97.26860039,Santa María Chachoápam,Zultpec,Oaxaca
+452,Mexico,17.56602838,,-97.26860039,Santa María Chachoápam,Sultepeque (San Mateo),Oaxaca
+585,Mexico,17.07908541,,-96.76308178,Santa María Atzompa,Mixe,Oaxaca
+470,Mexico,17.09383196,,-96.0646856,Santa María Tlahuitoltepec,Tultepec,Oaxaca
+448,Mexico,16.27744463,,-96.05245461,Santa María Quiegolani,Quiegolani,Oaxaca
+421,Mexico,17.76272496,,-96.88323638,Santos Reyes Pápalo,Cacalotepec (Santa María Asunción),Oaxaca
+427,Mexico,17.82792129,,-97.73166902,Santiago Huajolotitlán,Guajolotipac (Santiago),Oaxaca
+433,Mexico,16.28133146,,-97.82361067,Santiago Jamiltepec,Jamiltepec,Oaxaca
+632,Mexico,17.19001748,,-96.95761717,Santiago Suchilquitongo,unspecified site,Oaxaca
+461,Mexico,17.66320856,,-97.4711026,Villa Tejúpam de la Unión,Texopan (Santiago),Oaxaca
+463,Mexico,17.28405655,,-97.33915644,Santiago Tilantongo,Tilantongo,Oaxaca
+311,Mexico,17.2674337,,-96.41830436,Santiago Xiacuí,Ixtlán,Oaxaca
+446,Mexico,16.14938839,,-96.30996246,Santo Domingo Ozolotepec,Ozolotepec,Oaxaca
+434,Mexico,17.48964331,,-97.33915731,Santo Domingo Yanhuitlán,Juchiltepeque (San Juan),Oaxaca
+321,Mexico,17.52738477,,-97.34470503,Santo Domingo Yanhuitlán,Yanhuitlán,Oaxaca
+455,Mexico,17.35350255,,-96.61191983,Teococuilco de Marcos Pérez,Teoculco,Oaxaca
+453,Mexico,17.67570665,,-97.57166096,Villa de Tamazulápam del Progreso,Tamazulapa,Oaxaca
+456,Mexico,18.1331862,,-97.07248184,Teotitlán de Flores Magón,Teotitlán del Camino Real,Oaxaca
+473,Mexico,16.86606507,,-96.78497817,Zimatlán de Álvarez,Zimatlán,Oaxaca
+465,Mexico,16.95435175,,-96.47607316,Tlacolula de Matamoros,Tlacolula,Oaxaca
+609,Mexico,16.96193588,,-96.42655031,Villa Díaz Ordaz,unspecified site,Oaxaca
+472,Mexico,16.9507419,,-96.7502502,Villa de Zaachila,Zaachila,Oaxaca
+329,Mexico,19.07150681,,-97.95278381,Acajete,Ocopetlayucan,Puebla
+475,Mexico,18.20207112,,-98.04861899,Acatlán,Acatlán,Puebla
+371,Mexico,18.98036592,,-97.78221711,Acatzingo,Acatzincotepec,Puebla
+487,Mexico,18.4098743,,-97.30026899,Ajalpan,Nativitas (Santa María),Puebla
+479,Mexico,18.82343336,,-98.5816915,Atzitzihuacán,Atzitzihuaca (Santiago),Puebla
+476,Mexico,19.04481504,,-98.04501053,Amozoc,Amozoc,Puebla
+578,Mexico,19.74433,,-97.97226,Aquixtla,Chichicaxtla,Puebla
+527,Mexico,28.62963864,,-109.61132794,Soyopa,Huerta (San Antonio de la),Sonora
+325,Mexico,17.97100686,,-97.86028007,Chila,Chila,Puebla
+309,Mexico,18.26318185,,-97.14637266,Coxcatlán,Coscatlán,Puebla
+327,Mexico,18.95620954,,-98.01750612,Cuautinchán,Cuautinchán,Puebla
+652,Mexico,19.97753,,-97.54548,Cuetzalan del Progreso,Xocoyotepec,Puebla
+482,Mexico,19.60533921,,-97.62110556,Cuyoaco,Cuyoaco,Puebla
+323,Mexico,18.61764145,,-97.41416061,Chapulco,Chapulco,Puebla
+324,Mexico,18.30098899,,-98.60390729,Chiautla,Chiautla de la Sal,Puebla
+504,Mexico,20.08673441,,-97.99806433,Chiconcuautla,Zempoala,Puebla
+483,Mexico,18.6784405,,-98.05139793,Huatlatlauca,Huatlatlahuca,Puebla
+484,Mexico,20.17531412,,-98.05278788,Huauchinango,Huauchinango,Puebla
+477,Mexico,20.20783956,,-98.0313986,Huauchinango,Atenguillo (Santiago),Puebla
+328,Mexico,19.16063735,,-98.40641122,Huejotzingo,Huejotzingo,Puebla
+480,Mexico,20.03368197,,-97.66833502,Hueytlalpan,Citlaltepec,Puebla
+490,Mexico,19.42975988,,-97.61677724,Libres,Teoloyuca,Puebla
+486,Mexico,19.46426549,,-97.68638997,Libres,Llanos (San Juan de los),Puebla
+654,Mexico,19.26367133,,-97.53168697,Oriental,Malpaís,Puebla
+493,Mexico,18.05072506,,-97.84027977,Petlalcingo,Tepeji de la Seda,Puebla
+627,Mexico,18.96069,,-98.17019,Puebla,unspecified site,Puebla
+499,Mexico,18.92561418,,-98.13563342,Puebla,Valsequillo,Puebla
+498,Mexico,18.96901156,,-98.1858441,Puebla,Totomihuacan,Puebla
+481,Mexico,19.04397292,,-98.19751139,Puebla,Cuetlaxcoapa,Puebla
+332,Mexico,19.10483821,,-98.12973204,Puebla,Resurrección (La),Puebla
+330,Mexico,19.04397292,,-98.19751139,Puebla,Puebla de los Ángeles,Puebla
+485,Mexico,18.60375168,,-98.46529379,Izúcar de Matamoros,Izúcar,Puebla
+501,Mexico,18.32011655,,-98.84530968,Jolalpan,Xolalpan,Puebla
+488,Mexico,18.32432075,,-98.85030137,Jolalpan,Santa Ana,Puebla
+502,Mexico,20.02896013,,-97.57527748,Jonotla,Xonotla,Puebla
+326,Mexico,19.06203262,,-98.30640045,San Pedro Cholula,Cholula,Puebla
+500,Mexico,19.26952476,,-98.51474351,San Salvador el Verde,Verde (San Salvador el),Puebla
+503,Mexico,19.94313038,,-97.96000771,Zacatlán,Zacatlán,Puebla
+643,Mexico,18.94225823,,-97.81931642,Los Reyes de Juárez,San Pablo (Valle de),Puebla
+545,Mexico,19.28396363,,-98.43362608,San Martín Texmelucan,Texmelucan (San Salvador),Puebla
+489,Mexico,18.89925989,,-97.96945546,Tecali de Herrera,Tecali,Puebla
+333,Mexico,18.88398062,,-97.72778073,Tecamachalco,Tecamachalco,Puebla
+334,Mexico,18.46261237,,-97.39304631,Tehuacán,Tehuacán,Puebla
+491,Mexico,18.46983918,,-98.77780231,Teotlalco,Teotlalco,Puebla
+335,Mexico,18.96675759,,-97.90250568,Tepeaca,Tepeaca,Puebla
+610,Mexico,18.54794342,,-97.89651992,Tepexi de Rodríguez,unspecified site,Puebla
+494,Mexico,19.49065337,,-97.4911081,Tepeyahualco,Tepeyahualco,Puebla
+495,Mexico,19.81617097,,-97.80722211,Tetela de Ocampo,Tetela del Río,Puebla
+496,Mexico,19.8161931,,-97.36055034,Teziutlán,Teziutlán,Puebla
+478,Mexico,18.97789956,,-98.47362795,Tianguismanalco,Atlixco,Puebla
+322,Mexico,18.97789956,,-98.47362795,Tianguismanalco,Atlizuca,Puebla
+497,Mexico,18.89259036,,-98.57280394,Tochimilco,Tochimilco,Puebla
+93,Mexico,21.9324557,,-99.9970194,Rioverde,Río Verde,San Luis Potosí
+492,Mexico,18.33511753,,-97.01803633,Zoquitlán,Tepantitlán (Real de),Puebla
+505,Mexico,20.71364521,,-99.82115971,Cadereyta de Montes,Cadereyta,Querétaro
+510,Mexico,23.68988329,,-100.88759476,Catorce,Catorce (Real de),San Luis Potosí
+519,Mexico,22.15246334,,-100.994799,San Luis Potosí,Tequisquiapa,San Luis Potosí
+339,Mexico,22.15161539,,-100.97648347,San Luis Potosí,San Luis Potosí,San Luis Potosí
+507,Mexico,20.79114103,,-100.05033139,Colón,San Francisco,Querétaro
+336,Mexico,20.58807079,,-100.3931286,Querétaro,Querétaro,Querétaro
+506,Mexico,20.38836157,,-99.99422916,San Juan del Río,Río (San Juan del),Querétaro
+616,Mexico,24.28096111,,-98.64240681,Jiménez,unspecified site,Tamaulipas
+611,Mexico,20.85461678,,-99.8471243,Tolimán,unspecified site,Querétaro
+338,Mexico,21.49468585,,-86.79325585,Isla Mujeres,Contoy (Isla),Quintana Roo
+337,Mexico,21.60319238,,-87.10299805,Isla Mujeres,Catoche (Cabo),Quintana Roo
+517,Mexico,22.62798478,,-101.71483144,Salinas,Salinas (Santa María Magdalena de las),San Luis Potosí
+515,Mexico,22.62798478,,-101.71483144,Salinas,Peñón Blanco (Salinas de Santa María del),San Luis Potosí
+508,Mexico,22.24550145,,-100.6556446,Armadillo de los Infante,Armadillo (San Nicolás),San Luis Potosí
+516,Mexico,21.81136879,,-100.735626,Santa María del Río,Río (Santa María de),San Luis Potosí
+513,Mexico,23.64600316,,-100.64397601,Matehuala,Matehuala,San Luis Potosí
+613,Mexico,26.00626005,,-108.4776473,Sinaloa,unspecified site,Sinaloa
+547,Mexico,17.94878955,,-94.91410687,Acayucan,Acayucan,Veracruz de Ignacio de la Llave
+556,Mexico,19.56961858,,-96.50391174,Actopan,Joya (La),Veracruz de Ignacio de la Llave
+520,Mexico,21.66746564,,-100.57313554,Tierra Nueva,Tierra Nueva,San Luis Potosí
+514,Mexico,22.40126712,,-100.33321312,Cerritos,Mequities,San Luis Potosí
+521,Mexico,21.98245552,,-99.01003828,Ciudad Valles,Valles,San Luis Potosí
+341,Mexico,22.87797255,,-105.95823851,Rosario,Chiametla,Sinaloa
+512,Mexico,21.50001073,,-98.95004948,Coxcatlán,Huichihuaian,San Luis Potosí
+511,Mexico,23.13046246,,-101.11593982,Charcas,Charcas,San Luis Potosí
+612,Mexico,22.58485542,,-100.41138667,Guadalcázar,unspecified site,San Luis Potosí
+88,Mexico,22.61854661,,-100.39896952,Guadalcázar,Guadalcázar,San Luis Potosí
+522,Mexico,22.93380393,,-101.09315824,Venado,Venado,San Luis Potosí
+518,Mexico,22.03800928,,-100.73230541,Zaragoza,Sauceda (Hacienda de Santa Clara de la),San Luis Potosí
+509,Mexico,21.43803992,,-98.87531356,Axtla de Terrazas,Axtla (Santa Catarina),San Luis Potosí
+523,Mexico,21.38665177,,-98.99059711,Xilitla,Xilitla,San Luis Potosí
+580,Mexico,26.96667,,-108.63333,Álamos,Cobre,Sonora
+525,Mexico,30.43764536,,-110.0339143,Arizpe,Chinapa,Sonora
+524,Mexico,30.33489553,,-110.16675848,Arizpe,Arizpe,Sonora
+528,Mexico,27.49446668,,-109.9645789,Cajeme,Ostimuri,Sonora
+526,Mexico,28.17547382,,-109.94845401,Cajeme,Cieneguilla,Sonora
+614,Mexico,29.69149843,,-110.78361641,Carbó,unspecified site,Sonora
+529,Mexico,27.8413696,,-109.36867222,Rosario,Rosario (Real de),Sonora
+579,Mexico,28.658,,-108.74789,Sahuaripa,Mulatos,Sonora
+530,Mexico,17.66528225,,-93.48008533,Huimanguillo,Chontallpa,Tabasco
+615,Mexico,17.93857358,,-92.58952949,Macuspana,unspecified site,Tabasco
+647,Mexico,17.54844,,-92.9531,Teapa,Teapa,Tabasco
+532,Mexico,22.39633207,,-97.93723464,Altamira,Altamira,Tamaulipas
+653,Mexico,26.25345795,,-98.84008985,Camargo,Azanza (Candelaria),Tamaulipas
+543,Mexico,22.25578653,,-97.86889658,Tampico,Tampico,Tamaulipas
+539,Mexico,26.09257774,,-98.27808814,Reynosa,Reynosa,Tamaulipas
+412,Mexico,26.09257774,,-98.27808814,Reynosa,Feinosa,Tamaulipas
+589,Mexico,24.8485,,-98.15951,San Fernando,San Fernando,Tamaulipas
+625,Mexico,23.74925,,-99.10961,Victoria,unspecified site,Tamaulipas
+534,Mexico,19.25119632,,-97.89417442,Ixtenco,Extenco (San Juan),Tlaxcala
+660,Mexico,19.53213811,,-98.20841807,Atlangatepec,Atlancatepec,Tlaxcala
+659,Mexico,19.55565864,,-98.21536321,Atlangatepec,Tzompantzinco,Tlaxcala
+658,Mexico,19.42057079,,-98.1193295,Apizaco,Apizaco (colonial),Tlaxcala
+544,Mexico,19.42176696,,-98.08973175,Apizaco,Texcalangus (Santa María),Tlaxcala
+533,Mexico,19.43589,,-98.0663586,Apizaco,Cuetzcuapa (San Juan),Tlaxcala
+343,Mexico,19.31452149,,-98.19279013,Chiautempan,Santa Ana,Tlaxcala
+535,Mexico,19.31202269,,-97.9236184,Huamantla,Huamantla,Tlaxcala
+541,Mexico,19.47006577,,-98.34835641,Hueyotlipan,San Fernando,Tlaxcala
+617,Mexico,19.42860564,,-98.16841472,Yauhquemehcan,unspecified site,Tlaxcala
+342,Mexico,19.3726026,,-98.17723351,Yauhquemehcan,Atlihuezian,Tlaxcala
+546,Mexico,19.21646703,,-98.24001541,Zacatelco,Zacatelco (Santa Inés),Tlaxcala
+536,Mexico,19.23802288,,-98.35086761,Natívitas,Ixtacuixtla (San Felipe),Tlaxcala
+537,Mexico,19.40423834,,-98.04889466,Xaloztoc,Izalostoque (San Cosmo),Tlaxcala
+538,Mexico,19.2803074,,-98.2557134,Tlaxcala,Metepec (San Diego),Tlaxcala
+344,Mexico,19.31730126,,-98.23890287,Tlaxcala,Tlaxcala,Tlaxcala
+542,Mexico,19.37591084,,-98.0911181,Tzompantepec,San Salvador,Tlaxcala
+531,Mexico,19.37843576,,-98.10362086,Tzompantepec,Aguanhuatepec (San Andrés),Tlaxcala
+657,Mexico,19.23484419,,-98.26868425,San Jerónimo Zacualpan,Cocomilco (Santa Cruz) ,Tlaxcala
+548,Mexico,18.77094058,,-95.76078792,Alvarado,Alvarado,Veracruz de Ignacio de la Llave
+549,Mexico,19.37007133,,-96.37663375,La Antigua,Antigua,Veracruz de Ignacio de la Llave
+363,Mexico,21.00505503,,-89.22187776,Cacalchén,Sahcabá,Yucatán
+550,Mexico,19.45756708,,-96.95832123,Coatepec,Coatepec,Veracruz de Ignacio de la Llave
+347,Mexico,18.13846881,,-94.4354721,Coatzacoalcos,Coatzacoalcos,Veracruz de Ignacio de la Llave
+551,Mexico,18.89176257,,-96.93192981,Córdoba,Córdoba,Veracruz de Ignacio de la Llave
+559,Mexico,18.36876727,,-95.79523717,Cosamaloapan de Carpio,San Miguel,Veracruz de Ignacio de la Llave
+552,Mexico,18.36567877,,-95.79550852,Cosamaloapan de Carpio,Cosamaloapan,Veracruz de Ignacio de la Llave
+352,Mexico,18.36567877,,-95.79550852,Cosamaloapan de Carpio,Río Hondo,Veracruz de Ignacio de la Llave
+359,Mexico,20.96571702,,-89.62324008,Mérida,Mérida,Yucatán
+346,Mexico,18.3048505,,-95.84217156,Chacaltianguis,Chacaltianguiz,Veracruz de Ignacio de la Llave
+554,Mexico,19.05147602,,-96.98442841,Ixhuatlán del Café,Ixhuatlancillo el Monte (Santa María),Veracruz de Ignacio de la Llave
+565,Mexico,19.80480485,,-97.30860477,Jalacingo,Xalacingo,Veracruz de Ignacio de la Llave
+555,Mexico,19.54062487,,-96.92775856,Xalapa,Jalapa,Veracruz de Ignacio de la Llave
+553,Mexico,20.53587844,,-98.48001985,Huayacocotla,Huayacocotla,Veracruz de Ignacio de la Llave
+348,Mexico,18.85037536,,-97.10387056,Orizaba,Orizaba,Veracruz de Ignacio de la Llave
+349,Mexico,18.17707566,,-96.03273435,Otatitlán,Otatitlán,Veracruz de Ignacio de la Llave
+350,Mexico,22.05579492,,-98.17779479,Pánuco,Pánuco,Veracruz de Ignacio de la Llave
+351,Mexico,20.44836418,,-97.3202716,Papantla,Papantla,Veracruz de Ignacio de la Llave
+640,Mexico,17.83640576,,-95.84431714,Playa Vicente,Guascaltepeque,Veracruz de Ignacio de la Llave
+557,Mexico,19.92782684,,-96.85443,Misantla,Misantla,Veracruz de Ignacio de la Llave
+558,Mexico,19.65394998,,-96.87386962,Naolinco,Naolinco,Veracruz de Ignacio de la Llave
+646,Mexico,18.23175,,-95.94988,Tlacojalpan,Tlaujalpan,Veracruz de Ignacio de la Llave
+562,Mexico,18.45039498,,-95.21243115,San Andrés Tuxtla,Tuxtla (San Andrés),Veracruz de Ignacio de la Llave
+563,Mexico,18.46234502,,-95.29965361,Santiago Tuxtla,Tuxtla (Santiago),Veracruz de Ignacio de la Llave
+561,Mexico,18.46234502,,-95.29965361,Santiago Tuxtla,Tuxtla,Veracruz de Ignacio de la Llave
+58,Mexico,17.96295553,,-94.88021728,Soconusco,Soconusco,Veracruz de Ignacio de la Llave
+634,Mexico,21.28233756,,-98.30082726,Tantoyuca,unspecified site,Veracruz de Ignacio de la Llave
+560,Mexico,19.69422636,,-97.11165306,Tatatila,Teutitlán,Veracruz de Ignacio de la Llave
+59,Mexico,20.48030117,,-97.01026637,Tecolutla,Tecolutla,Veracruz de Ignacio de la Llave
+353,Mexico,18.61264407,,-95.65662346,Tlacotalpan,Tlacotalpan,Veracruz de Ignacio de la Llave
+618,Mexico,18.65266261,,-96.12579432,Tlalixcoyan,unspecified site,Veracruz de Ignacio de la Llave
+355,Mexico,19.44388441,,-96.40995556,Ursulo Galván,Zempoala,Veracruz de Ignacio de la Llave
+564,Mexico,19.21290097,,-96.12886152,Veracruz,Ulúa (San Juan),Veracruz de Ignacio de la Llave
+354,Mexico,19.19980902,,-96.13801865,Veracruz,Veracruz,Veracruz de Ignacio de la Llave
+345,Mexico,19.1775298,,-96.22053101,Veracruz,Buenavista (Estancia),Veracruz de Ignacio de la Llave
+357,Mexico,21.29662803,,-88.92528179,Dzilam González,Kanchunup,Yucatán
+619,Mexico,20.74805532,,-88.91936547,Kantunil,unspecified site,Yucatán
+360,Mexico,21.10612368,,-89.45145502,Mocochá,Mocochá,Yucatán
+362,Mexico,21.13449399,,-89.31652362,Motul,Quini,Yucatán
+651,Mexico,21.20134,,-89.27197,Telchac Pueblo,Telchac,Yucatán
+361,Mexico,20.53644476,,-88.85286786,Yaxcabá,Mopilá,Yucatán
+366,Mexico,20.63699547,,-88.92453615,Sotuta,Usil,Yucatán
+365,Mexico,20.66588297,,-88.93898093,Sotuta,Tibolón,Yucatán
+364,Mexico,20.59641657,,-89.00616102,Sotuta,Sotuta,Yucatán
+358,Mexico,21.15502674,,-88.31368976,Sucilá,Kikil,Yucatán
+356,Mexico,20.97667955,,-89.4417359,Tixpéhual,Espegual,Yucatán
+570,Mexico,21.77357592,,-102.97320104,Huanusco,Huamusco (alias Huanusco),Zacatecas
+190,Mexico,21.77357592,,-102.97320104,Huanusco,Guanusco,Zacatecas
+192,Mexico,21.63191048,,-102.97986105,Jalpa,Jalpa,Zacatecas
+571,Mexico,22.64908737,,-102.99070541,Jerez,Jerez,Zacatecas
+576,Mexico,23.47906188,,-103.88819725,Chalchihuites,Tonalán,Zacatecas
+568,Mexico,23.17601745,,-102.86792467,Fresnillo,Fresnillo,Zacatecas
+620,Mexico,23.28343333,,-102.66554945,Fresnillo,unspecified site,Zacatecas
+193,Mexico,21.4108112,,-103.11792561,Juchipila,Juchipila,Zacatecas
+63,Mexico,24.63873424,,-101.55567693,Mazapil,Mazapil,Zacatecas
+86,Mexico,23.99431663,,-103.01987027,General Francisco R. Murguía,Nieves (Santa Elena del Real de),Zacatecas
+715,Mexico,19.61881,,-98.919115,Acolman,Acolman (presa del rey),México
+865,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Luís de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
+866,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Luís de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
+867,Mexico,,"The location is not exact. This district included diverse sites in Guanajuato, including Celaya and San Luís de la Paz. The novenarios are apparently from San Miguel El Grande but I couldn't ascertain this information.",,San Miguel El Grande,San Miguel El Grande and Dolores (treasury district),Guanajuato
+1,Mexico,21.87940193,,-102.30040795,Aguascalientes,unspecified site,Aguascalientes
+566,Mexico,22.23799875,,-102.08957309,Asientos,Asientos de Ibarra,Aguascalientes
+593,Mexico,22.00637062,,-102.36211611,Jesús María,Aguascalientes,Aguascalientes
+594,Mexico,27.3598233,,-113.70412204,Mulegé,unspecified site,Baja California Sur
+649,Mexico,22.89406,,-109.92628,Los Cabos,Cabo (Misión del),Baja California Sur
+590,Mexico,20.40555,,-90.1515,Calkiní,San Francisco,Campeche
+2,Mexico,19.84283699,,-90.5317609,Campeche,Campeche,Campeche
+595,Mexico,19.03381081,,-89.92234624,Hopelchén,unspecified site,Campeche
+17,Mexico,18.93480778,,-103.96487919,Armería,Cuzcacuauhtla,Colima
+764,Mexico,19.638,Urban and rural areas above the presa del rey.,-98.911,Acolman,Acolman (region),México
+814,Mexico,19.623479,,-98.889914,Tepechpan,Hacienda de San Antonio,México
+815,Mexico,19.620794,,-98.923831,Acolman,Santa Catarina,México
+816,Mexico,19.61187,,-98.896971,Acolman,Chipiltepec (San Mateo),México
+817,Mexico,19.61457752,,-98.91613709,Acolman,Cuanalan,México
+818,Mexico,19.616591,lat/lon is approximate,-98.890233,Acolman,Hacienda de los Pilares,México
+819,Mexico,19.639803,,-98.907781,Acolman,Calvario,México
+820,Mexico,19.628189,,-98.886726,Acolman,Tepetitlan (San Pedro),México
+540,Mexico,19.3398264,,-98.20667852,Tlaxcala,San Esteban,Tlaxcala
+573,Mexico,22.30410164,,-103.5607199,Monte Escobedo,Monte Escobedo,Zacatecas
+316,Mexico,21.3611077,,-102.84594702,Nochistlán de Mejía,Nochistlán,Zacatecas
+574,Mexico,23.63515656,,-103.64016329,Sombrerete,Sombrerete (Real del),Zacatecas
+636,Mexico,22.29877,,-101.57483,Pinos,Sierra de Pinos (alias Real de Minas),Zacatecas
+575,Mexico,21.7821849,,-103.30404335,Tlaltenango de Sánchez Román,Tlaltenango,Zacatecas
+367,Mexico,21.8752488,,-103.30929143,Tlaltenango de Sánchez Román,Teocaltiche,Zacatecas
+577,Mexico,22.77075435,,-103.56822056,Valparaíso,Valparaíso,Zacatecas
+572,Mexico,22.36913124,,-101.7597106,Villa Hidalgo,Mecatabasco,Zacatecas
+624,Mexico,22.35524229,,-103.02189645,Villanueva,unspecified site,Zacatecas
+567,Mexico,22.75542587,,-102.58858156,Zacatecas,Bolaños,Zacatecas
+368,Mexico,22.77214549,,-102.57569485,Zacatecas,Zacatecas,Zacatecas
+664,Mexico,,,,Teotihuacan,Teotihuacan,México
