@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base target="_top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Leaflet Lesson</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <script src="https://unpkg.com/esri-leaflet@3.0.10/dist/esri-leaflet.js"></script>
+
+    <script src="https://unpkg.com/esri-leaflet-vector@4.2.3/dist/esri-leaflet-vector.js"></script>
+
+    <!-- Load Leaflet MarkerCluster and Esri Leaflet Cluster from CDN -->
+    <link rel="stylesheet" type="text/css"
+        href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.Default.css"
+        integrity="sha512-6ZCLMiYwTeli2rVh3XAPxy3YoR5fVxGdH/pz+KMCzRY2M65Emgkw00Yqmhh8qLGeYQ3LbVZGdmOX9KUjSKr0TA=="
+        crossorigin="">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.css"
+        integrity="sha512-mQ77VzAakzdpWdgfL/lM1ksNy89uFgibRQANsNneSTMD/bj0Y/8+94XMwYhnbzx8eki2hrbPpDm0vD0CiT2lcg=="
+        crossorigin="">
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.0/dist/leaflet.markercluster.js"
+        integrity="sha512-pWPELjRaw2ZdoT0PDi7iRpRlk1XX3rtnfejJ/HwskyojpHei+9hKpwdphC4yssNt4FM0TjMQOmMrk6ZYSn274w=="
+        crossorigin=""></script>
+    <script src="https://unpkg.com/esri-leaflet-cluster@3.0.1/dist/esri-leaflet-cluster.js"></script>
+</head>
+
+<body>
+
+    <div style="max-width: 600px; font-size:large">
+        <h1>M09 Leaflet Lesson</h1>
+        <p>Below you will find a map of more than 4,000 historical events for colonial Mexico, each indicating a
+            possible
+            manifestation of a social-ecological crisis or disturbance.</p>
+    </div>
+
+    <div id="map" style="width: 600px; height: 400px;"></div>
+    <script>
+
+        const map = L.map('map', { maxZoom: 18 }).setView([23, -100], 5);
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        var sesdata = L.esri.Cluster.featureLayer({
+            url: 'https://services.arcgis.com/EEOLw7FvbUFCdg7T/arcgis/rest/services/SES_Skopyk/FeatureServer/0'
+        }).addTo(map);
+
+        sesdata.bindPopup(function (layer) {
+            return L.Util.template(
+                "<p>In <strong>{start_year}</strong>, at <strong>{site} ({state})</strong>,<br>the following was reported:</p><p><strong>{summary}</strong></p><p>{event_quote}</p>",
+                layer.feature.properties
+            );
+        })
+
+    </script>
+
+
+
+</body>
+
+</html>

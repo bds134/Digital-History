@@ -300,8 +300,6 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Presner and Shepard, "Mapping the Geospatial Turn"
   - Drucker *The Digital Humanities Coursebook* (chapt. 8-9)
-- Presentations
-  - 3-4 students will present today
 - Lesson
   - Leaflet
 - Exercise
@@ -314,7 +312,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
 - Discuss
   - Wilson, *New lines: Critical GIS and the Trouble of the Map* (chapts. 1-2)
 - Presentations
-  - 3-4 students will present today
+  - 4 students will present today
 - Lesson
   - R Studio
 - Exercise
@@ -331,7 +329,7 @@ nb: *This schedule (along with readings and exercises) are subject to change. Ea
   - Drucker *The Digital Humanities Coursebook* (chapt. 10-12)
   - Pitti, "Designing sustainable Projects and Publications"
 - Presentations
-  - 3-4 students will present today
+  - 4 students will present today
 - Lesson
   - Web Archiving
 - Exercise
