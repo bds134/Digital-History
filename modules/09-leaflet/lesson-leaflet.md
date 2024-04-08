@@ -13,7 +13,7 @@ No installations are required to complete this lesson, although you will need an
 
 ## ArcGIS Online (AGOL)
 
-There are many easy methods to plot x/y geographic coordinates in a map. We did this in week 6 (sql). Nevertheless, the workflow and technologies become more sophisticated and complext when we need to create maps that can be shared and hosted in a web environment. This is especially true for situations when we want to include dynamic and interactive maps within a simple webpage, such as within our gitpage.io 'git pages'.
+There are many easy methods to plot x/y geographic coordinates in a map. We did this in week 6 (sql). Nevertheless, the workflow and technologies become more sophisticated and complex when we need to create maps that can be shared and hosted in a web environment. This is especially true for situations when we want to include dynamic and interactive maps within a simple webpage, such as within our gitpage.io 'git pages'.
 
 In this lesson, we will learn how to created a hosted map service in ArcGIS Online, a web-based GIS service that is owned by ESRI and free to use for members of the Binghamton University community. A functional but limited version is also freely available to the public as a ArcGIS Public Account.
 
