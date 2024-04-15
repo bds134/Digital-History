@@ -1,0 +1,54 @@
+---
+title: "m10-arc-layer"
+output: html_document
+date: "2024-04-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load the libraries:
+```{r}
+library(arcgis)
+library(leaflet)
+library(sf)     
+library(dplyr)   
+library(ggplot2)
+library(leaflet.esri)
+```
+
+```{r}
+furl <- "https://services.arcgis.com/EEOLw7FvbUFCdg7T/arcgis/rest/services/SES_Skopyk/FeatureServer"
+fs <- arc_open(furl)
+fs
+```
+
+```{r}
+flayer <- get_layer(fs,id=0)
+flayer
+```
+
+```{r}
+fields <- list_fields(flayer)
+fields
+```
+
+```{r}
+sesdata <- arc_select(flayer)
+sesdata
+```
+
+```{r}
+plot(sesdata['state'])
+```
+
+```{r}
+leaflet() %>%
+addEsriBasemapLayer(esriBasemapLayers$Streets) %>%
+setView(-100, 23, 5) %>%
+addEsriFeatureLayer(
+url = paste0("https://services.arcgis.com/EEOLw7FvbUFCdg7T/arcgis/rest/services/SES_Skopyk/FeatureServer/0")
+)
+```
+```

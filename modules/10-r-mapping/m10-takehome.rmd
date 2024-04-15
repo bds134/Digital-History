@@ -1,0 +1,38 @@
+---
+title: "take-home"
+output: html_document
+date: "2024-04-15"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "D:/Projects/r-leaflet/spatial_humanities/south")
+```
+
+```{r}
+library(leaflet)
+library(sf)     
+library(dplyr)   
+library(ggplot2)
+```
+
+```{r}
+setwd("D:/Projects/r-leaflet/spatial_humanities/south")
+```
+
+
+```{r}
+ses_shape <- st_read("SES_Skopyk.shp")
+```
+
+```{r}
+plot(ses_shape['state'])
+```
+
+```{r}
+leaflet(data = ses_shape) %>%
+  addTiles() %>%
+  addMarkers(data = ses_shape,lng = ~lon, lat = ~lat,clusterOptions = markerClusterOptions(),popup = paste(ses_shape$site,": ",ses_shape$start_year,"<p><strong>",ses_shape$summary,"</strong></p><p>",ses_shape$event_quot,"</p>")) %>%
+  setView(-100,23,5)
+```
+
+
