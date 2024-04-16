@@ -6,7 +6,9 @@ date: "2024-04-15"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = "D:/Projects/r-leaflet/spatial_humanities/south")
+# Download or sync this course's Git repo
+# Complete the path below to the 'data' folder
+knitr::opts_knit$set(root.dir = ".../Digital-History/modules/10-r-mapping/data/")
 ```
 # R/Leaflet Tutorial
 
@@ -18,17 +20,19 @@ R is a great tool for map making for a few reasons: first, there are many pre-ex
 
 Load in the leaflet package and other required packages:
 
-```{r}
+```{r libraries, echo=FALSE}
 library(leaflet)
-library(sf)     
-library(dplyr)   
+library(sf)
+library(dplyr)
 library(ggplot2)
 ```
 
 ## Set Working Directory
 
 ```{r}
-setwd("D:/Projects/r-leaflet/spatial_humanities/south")
+# Download or sync this course's Git repo
+# Complete the path below to the 'data' folder
+setwd(".../Digital-History/modules/10-r-mapping/data/")
 ```
 
 
@@ -52,7 +56,7 @@ Start by calling the leaflet() function and build on your map from there. The '%
 
 ```{r}
 leaflet() %>%
-  leaflet::addPolygons(data = south, color = "blue", weight = 1, fill = FALSE)
+  leaflet::addPolygons(data = south, color = "red", weight = 1, fill = TRUE, fillOpacity = .6)
 ```
 
 So, now we have a beginning plot. We can make this much more interesting! Let's add some variables and make them interactive.
@@ -67,15 +71,21 @@ pal_fun <- colorNumeric("YlOrRd", NULL, n = 5)
 
 ```{r}
 leaflet() %>%
-  leaflet::addPolygons(data = south, 
-          # remove polygon borders             
-                       stroke = FALSE, 
-          # set fill color with function from above and value
-          #tell R to use the color palette we created based on the population 1960 variable
-                       fillColor = ~pal_fun(PO60), 
-          #these next two lines change the opacity of the layer and smooth out the polygons a bit - you can keep these            settings or play around with them if you want to. Both range between 0 and 1
-                       fillOpacity = 0.8, 
-                       smoothFactor = 0.5)
+  leaflet::addPolygons(
+    data = south,
+    # remove polygon borders
+    stroke = FALSE,
+    # set fill color with function from above and value
+    # tell R to use the color palette 
+    # we created based on the population 1960 variable
+    fillColor = ~ pal_fun(PO60),
+    # these next two lines change the opacity of the layer
+    # and smooth out the polygons a bit - you can keep these
+    # settings or play around with them if you want to.
+    # Both range between 0 and 1
+    fillOpacity = 0.8,
+    smoothFactor = 0.5
+  )
 ```
 
 ## Add Popups
@@ -85,40 +95,45 @@ Let's make it more interactive by adding some pop-up text!
 Generate text for the map pop-up:
 
 ```{r}
-p_popup <- paste0("Name: ","<strong>",south$NAME,"</strong></br>","State: ","<strong>",south$STATE_NAME,"</strong></br>","<strong>Population 1960: </strong>", south$PO60)
+p_popup <- paste0("Name: ", "<strong>", south$NAME, "</strong></br>", "State: ", "<strong>", south$STATE_NAME, "</strong></br>", "<strong>Population 1960: </strong>", south$PO60)
 ```
 
 
 ```{r}
-
-#now plot it with these custom options
+# now plot it with these custom options
 leaflet() %>%
-  leaflet::addPolygons(data = south, 
-          # remove polygon borders             
-                       stroke = FALSE, 
-          # set fill color with function from above and value
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 0.8, 
-                       smoothFactor = 0.5, 
-          # add pop-up text
-                       popup = p_popup)
+  leaflet::addPolygons(
+    data = south,
+    # remove polygon borders
+    stroke = FALSE,
+    # set fill color with function from above and value
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 0.8,
+    smoothFactor = 0.5,
+    # add pop-up text
+    popup = p_popup
+  )
 ```
 
 ## Add a Legend
 
 ```{r}
 leaflet() %>%
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 0.8, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup) %>% 
-  #Use a %>% to tell R to include the next line of code in the map
-  addLegend("bottomright",  # location of legend
-            pal=pal_fun,    # palette function - tells R what colors to include in the legend
-            values=south$PO60, #Tells R what variable to base the legend on
-            title = 'Population 1960') # legend title
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 0.8,
+    smoothFactor = 0.5,
+    popup = p_popup
+  ) %>%
+  # Use a %>% to tell R to include the next line of code in the map
+  addLegend("bottomright", # location of legend
+    pal = pal_fun,
+    # palette function - tells R what colors to include in the legend
+    values = south$PO60, # Tells R what variable to base the legend on
+    title = "Population 1960"
+  ) # legend title
 ```
 
 ## Add Basemap
@@ -127,17 +142,20 @@ Next, let's add a basemap.
 
 ```{r}
 leaflet() %>%
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 0.8, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup) %>% 
-  addLegend("bottomright",  # location
-            pal=pal_fun,    # palette function
-            values=south$PO60, 
-            title = 'Population') %>% 
-  #we can do this with one line of code:
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 0.8,
+    smoothFactor = 0.5,
+    popup = p_popup
+  ) %>%
+  addLegend("bottomright", # location
+    pal = pal_fun, # palette function
+    values = south$PO60,
+    title = "Population"
+  ) %>%
+  # we can do this with one line of code:
   addTiles()
 ```
 
@@ -145,60 +163,69 @@ We can add different base maps, but these will be third party options so we need
 
 ```{r}
 leaflet() %>%
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 0.8, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup) %>% 
-  addLegend("bottomright",  # location
-            pal=pal_fun,    # palette function
-            values=south$PO60, 
-            title = 'Population') %>% 
-  #we can do this with one line of code:
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 0.8,
+    smoothFactor = 0.5,
+    popup = p_popup
+  ) %>%
+  addLegend("bottomright", # location
+    pal = pal_fun, # palette function
+    values = south$PO60,
+    title = "Population"
+  ) %>%
+  # we can do this with one line of code:
   addProviderTiles(providers$CartoDB.Positron)
 ```
 
 The nice part about leaflet is that we can map more than one variable at a time. We cannot, however, map them both simultaneously: instead, we will have to map them as two separate layers. 
 
 ```{r}
-#Let's add more than one layer!
+# Let's add more than one layer!
 
-#Create palette and pop-up for second layer
+# Create palette and pop-up for second layer
 p_popup2 <- paste0("<strong>Population 1980: </strong>", south$PO80)
 
 pal_fun2 <- colorNumeric("Blues", NULL, n = 5)
 
 leaflet() %>%
-  #Add the first layer (variable) to the map
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 1, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup,
-                       group = "1960") %>% 
-  #Next, add the second layer (variable) to the map
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun2(PO80), 
-                       fillOpacity = 1, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup2,
-                       group = "1980") %>% 
-  #Let's add a legend for both of the layers
-  addLegend("bottomright",  
-            pal=pal_fun,    
-            values=south$PO60, 
-            title = 'Population 1960',
-            group = "1960") %>% 
-  #Add second legend layer
-  addLegend("bottomright",  
-            pal=pal_fun2,    
-            values=south$PO80, 
-            title = 'Population 1980',
-            group = "1980") %>% 
-  #Add base map
+  # Add the first layer (variable) to the map
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 1,
+    smoothFactor = 0.5,
+    popup = p_popup,
+    group = "1960"
+  ) %>%
+  # Next, add the second layer (variable) to the map
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun2(PO80),
+    fillOpacity = 1,
+    smoothFactor = 0.5,
+    popup = p_popup2,
+    group = "1980"
+  ) %>%
+  # Let's add a legend for both of the layers
+  addLegend("bottomright",
+    pal = pal_fun,
+    values = south$PO60,
+    title = "Population 1960",
+    group = "1960"
+  ) %>%
+  # Add second legend layer
+  addLegend("bottomright",
+    pal = pal_fun2,
+    values = south$PO80,
+    title = "Population 1980",
+    group = "1980"
+  ) %>%
+  # Add base map
   addProviderTiles(providers$CartoDB.Positron)
 ```
 
@@ -206,39 +233,47 @@ But wait, how do I see the second layer? We have to add one more piece of code:
 
 ```{r}
 leaflet() %>%
-  #Add the first layer (variable) to the map
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun(PO60), 
-                       fillOpacity = 1, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup,
-                       group = "1960") %>% 
-  #Next, add the second layer (variable) to the map
-  leaflet::addPolygons(data = south, 
-                       stroke = FALSE, 
-                       fillColor = ~pal_fun2(PO80), 
-                       fillOpacity = 1, 
-                       smoothFactor = 0.5, 
-                       popup = p_popup2,
-                       group = "1980") %>% 
-  #Let's add a legend for both of the layers
-  addLegend("bottomright",  
-            pal=pal_fun,    
-            values=south$PO60, 
-            title = 'Population 1960',
-            group = "1960") %>% 
-  #Add second legend layer
-  addLegend("bottomright",  
-            pal=pal_fun2,    
-            values=south$PO80, 
-            title = 'Population 1980',
-            group = "1980") %>% 
-  #Add base map
-  addProviderTiles(providers$CartoDB.Positron)%>% 
-  #This lets us toggle the layers on and off
-  addLayersControl(overlayGroups = c("1960", "1980"),
-                   options = layersControlOptions(collapsed = FALSE))
+  # Add the first layer (variable) to the map
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun(PO60),
+    fillOpacity = 1,
+    smoothFactor = 0.5,
+    popup = p_popup,
+    group = "1960"
+  ) %>%
+  # Next, add the second layer (variable) to the map
+  leaflet::addPolygons(
+    data = south,
+    stroke = FALSE,
+    fillColor = ~ pal_fun2(PO80),
+    fillOpacity = 1,
+    smoothFactor = 0.5,
+    popup = p_popup2,
+    group = "1980"
+  ) %>%
+  # Let's add a legend for both of the layers
+  addLegend("bottomright",
+    pal = pal_fun,
+    values = south$PO60,
+    title = "Population 1960",
+    group = "1960"
+  ) %>%
+  # Add second legend layer
+  addLegend("bottomright",
+    pal = pal_fun2,
+    values = south$PO80,
+    title = "Population 1980",
+    group = "1980"
+  ) %>%
+  # Add base map
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  # This lets us toggle the layers on and off
+  addLayersControl(
+    overlayGroups = c("1960", "1980"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
 ```
 
 
@@ -247,33 +282,37 @@ leaflet() %>%
 What if I want to visualize one variable using points? This is fairly easy to do in R! We will first need to add points, since the data we are currently working with is polygon data. I don't have point data for this region, so I will create it - I will generate points that fit in the center of each county. This type of point is known as a centroid. 
 
 ```{r centroids, echo=FALSE}
-#add a central point for each county
+# add a central point for each county
 centroid <- st_centroid(south)
 
-#new pop-up - we'll make it slightly more interesting
-p_popup3 <- paste0("<strong>County: </strong>", south$NAME, ", ", south$STATE_NAME, 
-                   " | <strong>Population: </strong>", south$PO70)
+# new pop-up - we'll make it slightly more interesting
+p_popup3 <- paste0(
+  "<strong>County: </strong>", south$NAME, ", ", south$STATE_NAME,
+  " | <strong>Population: </strong>", south$PO70
+)
 
-#add to the map
+# add to the map
 leaflet() %>%
-  #instead of addPolygons, we will be adding CircleMarkers now
-  addCircleMarkers(data = centroid,
-             #use the color = argument to add in a color palette
-             color = ~pal_fun(PO70),
-             #here, I have sized the points by population 
-             #the sqrt and /100 are just to scale the points so they are not huge
-             radius = sqrt(centroid$PO70)/100,
-             #I can change the opacity of the circles
-             fillOpacity = 1,
-             #addin my popup for each circle
-             popup = p_popup3) %>% 
-  #legend works the same
-  addLegend("bottomright",  # location
-            pal=pal_fun,    # palette function
-            values=centroid$PO60, 
-            title = 'Population, 1970')  %>% 
-    addTiles()
-
+  # instead of addPolygons, we will be adding CircleMarkers now
+  addCircleMarkers(
+    data = centroid,
+    # use the color = argument to add in a color palette
+    color = ~ pal_fun(PO70),
+    # here, I have sized the points by population
+    # the sqrt and /100 are just to scale the points so they are not huge
+    radius = sqrt(centroid$PO70) / 100,
+    # I can change the opacity of the circles
+    fillOpacity = 1,
+    # addin my popup for each circle
+    popup = p_popup3
+  ) %>%
+  # legend works the same
+  addLegend("bottomright", # location
+    pal = pal_fun, # palette function
+    values = centroid$PO60,
+    title = "Population, 1970"
+  ) # %>%
+#    addTiles()
 ```
 
 ## Resources
