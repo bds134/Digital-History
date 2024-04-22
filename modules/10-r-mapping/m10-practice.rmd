@@ -8,7 +8,7 @@ date: "2024-04-15"
 knitr::opts_chunk$set(echo = TRUE)
 # Download or sync this course's Git repo
 # Complete the path below to the 'data' folder
-knitr::opts_knit$set(root.dir = ".../Digital-History/modules/10-r-mapping/data/")
+knitr::opts_knit$set(root.dir = "D:/Google Drive/git-projects/Digital-History/modules/10-r-mapping/data")
 ```
 # R/Leaflet Tutorial
 
@@ -32,7 +32,7 @@ library(ggplot2)
 ```{r}
 # Download or sync this course's Git repo
 # Complete the path below to the 'data' folder
-setwd(".../Digital-History/modules/10-r-mapping/data/")
+setwd("D:/Google Drive/git-projects/Digital-History/modules/10-r-mapping/data")
 ```
 
 
