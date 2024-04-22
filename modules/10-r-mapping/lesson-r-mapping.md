@@ -50,3 +50,7 @@ run chunk | alt + enter
 ## Tutorial
 
 We will follow this [R Notebook](m10-practice.rmd)
+
+The m10-arcgis.rmd notebook has [code help for arcgis services](m10-arcgis.rmd)
+
+The m10-takehome.rmd notebook has [code help for point shapefiles](m10-takehome.rmd)
