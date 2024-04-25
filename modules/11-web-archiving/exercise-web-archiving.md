@@ -1,5 +1,7 @@
 # Exercise for M11 Web Archiving
 
+Due by 2024-05-15
+
 Do the following three steps.
 
 1. [Record a digital project with Conifer](https://conifer.rhizome.org/)
